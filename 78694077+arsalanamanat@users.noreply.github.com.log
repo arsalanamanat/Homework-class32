@@ -31,3 +31,68 @@
 2021-05-08 07:28:10 error: *** Spell Checker Report ***
 
 
+2021-05-08 08:24:51 info: -------------------------------------------
+2021-05-08 08:24:51 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2021-05-08 08:24:51 info: -------------------------------------------
+2021-05-08 08:24:56 error: *** Unit Test Error Report ***
+
+- tellFortune should call function `selectRandomly` for each of its arguments
+- tellFortune should tell the fortune by randomly selecting array values
+  fortune-telling is not randomly composed
+
+2021-05-08 08:25:00 error: *** Spell Checker Report ***
+
+
+2021-05-08 08:35:45 info: -------------------------------------------
+2021-05-08 08:35:45 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2021-05-08 08:35:45 info: -------------------------------------------
+2021-05-08 08:35:50 error: *** Unit Test Error Report ***
+
+- tellFortune should exist and be executable
+
+2021-05-08 08:35:52 error: *** Spell Checker Report ***
+
+
+2021-05-08 08:43:31 info: -------------------------------------------
+2021-05-08 08:43:31 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2021-05-08 08:43:31 info: -------------------------------------------
+2021-05-08 08:43:35 error: *** Unit Test Error Report ***
+
+- tellFortune should call function `selectRandomly` for each of its arguments
+- tellFortune should tell the fortune by randomly selecting array values
+  fortune-telling is not randomly composed
+
+2021-05-08 08:43:38 error: *** Spell Checker Report ***
+
+
+2021-05-08 08:44:39 info: -------------------------------------------
+2021-05-08 08:44:39 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2021-05-08 08:44:39 info: -------------------------------------------
+2021-05-08 08:44:44 error: *** Unit Test Error Report ***
+
+- tellFortune should tell the fortune by randomly selecting array values
+  Expected: You will be a Doctor in New York, married to Jhon with 7 kids.
+  Received: undefined
+
+2021-05-08 08:44:47 error: *** Spell Checker Report ***
+
+
+2021-05-08 09:04:17 info: -------------------------------------------
+2021-05-08 09:04:17 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2021-05-08 09:04:17 info: -------------------------------------------
+2021-05-08 09:04:21 error: *** Unit Test Error Report ***
+
+- tellFortune should tell the fortune by randomly selecting array values
+  Expected: You will be a Doctor in New York, married to Jhon with 7 kids.
+  Received: You will be a Doctor,Inspector,Engineer,Developer,Marketing Manager in New York,Manhattan,Amsterdam,Singapore,Dublin, married to Jhon,Inga,Mathew,Jort,Joanna with 7,5,3,8,10 kids.
+
+2021-05-08 09:04:24 error: *** Spell Checker Report ***
+
+
+2021-05-08 09:10:02 info: -------------------------------------------
+2021-05-08 09:10:02 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2021-05-08 09:10:02 info: -------------------------------------------
+2021-05-08 09:10:06 info: All unit tests passed.
+2021-05-08 09:10:09 error: *** Spell Checker Report ***
+
+
