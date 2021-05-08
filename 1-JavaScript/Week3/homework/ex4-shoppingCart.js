@@ -32,7 +32,7 @@ function addToShoppingCart(items) {
       shoppingCart.shift(items);
     } else {
       shoppingCart.push(items);
-      return `You bought ${shoppingCart}!`;
+      return `You bought ${shoppingCart.join(', ')}!`;
     }
   }
 }

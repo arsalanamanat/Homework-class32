@@ -168,3 +168,21 @@
 2021-05-08 10:00:03 error: *** Spell Checker Report ***
 
 
+2021-05-08 10:49:30 info: -------------------------------------------------
+2021-05-08 10:49:30 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-08 10:49:30 info: -------------------------------------------------
+2021-05-08 10:49:34 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should use spread syntax (...) inside an array
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-08 10:49:37 error: *** Spell Checker Report ***
+
+
+2021-05-08 10:59:21 info: --------------------------------------------
+2021-05-08 10:59:21 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2021-05-08 10:59:21 info: --------------------------------------------
+2021-05-08 10:59:26 info: All unit tests passed.
+2021-05-08 10:59:31 error: *** Spell Checker Report ***
+
+
