@@ -27,8 +27,8 @@ const shoppingCart = ['bananas', 'milk'];
 function addToShoppingCart(items) {
   // TODO complete this function
   // eslint-disable-next-line no-restricted-syntax
-  for (let item in shoppingCart) {
-    if (shoppingCart.length > 2) {
+  for (const item in shoppingCart) {
+    if (shoppingCart.length >= 3) {
       shoppingCart.shift(items);
     } else {
       shoppingCart.push(items);

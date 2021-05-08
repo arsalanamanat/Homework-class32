@@ -186,3 +186,99 @@
 2021-05-08 10:59:31 error: *** Spell Checker Report ***
 
 
+2021-05-08 12:23:14 info: --------------------------------------------
+2021-05-08 12:23:14 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2021-05-08 12:23:14 info: --------------------------------------------
+2021-05-08 12:23:24 info: All unit tests passed.
+2021-05-08 12:23:31 error: *** Spell Checker Report ***
+
+
+2021-05-08 12:42:24 info: -------------------------------------------------
+2021-05-08 12:42:24 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-08 12:42:24 info: -------------------------------------------------
+2021-05-08 12:42:29 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-08 12:42:32 error: *** Spell Checker Report ***
+
+
+2021-05-08 12:46:47 info: -------------------------------------------------
+2021-05-08 12:46:47 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-08 12:46:47 info: -------------------------------------------------
+2021-05-08 12:46:51 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should use spread syntax (...) inside an array
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-08 12:46:54 error: *** Spell Checker Report ***
+
+
+2021-05-08 12:47:28 info: -------------------------------------------------
+2021-05-08 12:47:28 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-08 12:47:28 info: -------------------------------------------------
+2021-05-08 12:47:33 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should exist and be executable
+- addToShoppingCart should be a function that takes two parameters
+- addToShoppingCart should use spread syntax (...) inside an array
+- addToShoppingCart should not modify ('mutate') its arguments
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-08 12:47:36 error: *** Spell Checker Report ***
+
+
+2021-05-08 12:49:09 info: -------------------------------------------------
+2021-05-08 12:49:09 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-08 12:49:09 info: -------------------------------------------------
+2021-05-08 12:49:14 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-08 12:49:17 error: *** Spell Checker Report ***
+
+
+2021-05-08 12:51:10 info: -------------------------------------------------
+2021-05-08 12:51:10 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-08 12:51:10 info: -------------------------------------------------
+2021-05-08 12:51:15 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-08 12:51:18 error: *** Spell Checker Report ***
+
+
+2021-05-08 01:25:20 info: -----------------------------------------
+2021-05-08 01:25:20 info: >>> Running Unit Test `ex6-totalCost` <<<
+2021-05-08 01:25:20 info: -----------------------------------------
+2021-05-08 01:25:26 error: *** Unit Test Error Report ***
+
+- calculateTotalPrice should return the total price in Euros
+
+2021-05-08 01:25:30 error: *** Spell Checker Report ***
+
+
+2021-05-08 01:26:22 info: -----------------------------------------
+2021-05-08 01:26:22 info: >>> Running Unit Test `ex6-totalCost` <<<
+2021-05-08 01:26:22 info: -----------------------------------------
+2021-05-08 01:26:27 error: *** Unit Test Error Report ***
+
+- calculateTotalPrice should return the total price in Euros
+
+2021-05-08 01:26:30 error: *** Spell Checker Report ***
+
+
+2021-05-08 01:26:54 info: -----------------------------------------
+2021-05-08 01:26:54 info: >>> Running Unit Test `ex6-totalCost` <<<
+2021-05-08 01:26:54 info: -----------------------------------------
+2021-05-08 01:26:58 info: All unit tests passed.
+2021-05-08 01:27:02 error: *** Spell Checker Report ***
+
+
+2021-05-08 01:29:05 info: -----------------------------------------
+2021-05-08 01:29:05 info: >>> Running Unit Test `ex6-totalCost` <<<
+2021-05-08 01:29:05 info: -----------------------------------------
+2021-05-08 01:29:10 info: All unit tests passed.
+2021-05-08 01:29:13 error: *** Spell Checker Report ***
+
+
