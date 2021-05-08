@@ -96,3 +96,75 @@
 2021-05-08 09:10:09 error: *** Spell Checker Report ***
 
 
+2021-05-08 09:56:12 info: --------------------------------------------
+2021-05-08 09:56:12 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2021-05-08 09:56:12 info: --------------------------------------------
+2021-05-08 09:56:19 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should add chocolate
+  Expected: You bought bananas, milk, chocolate!
+  Received: bananas,milk,chocolate
+- addToShoppingCart should remove bananas after adding waffles
+  Expected: You bought milk, chocolate, waffles!
+  Received: milk,chocolate,waffles
+- addToShoppingCart should remove milk after adding tea
+  Expected: You bought chocolate, waffles, tea!
+  Received: chocolate,waffles,tea
+
+2021-05-08 09:56:23 error: *** Spell Checker Report ***
+
+
+2021-05-08 09:56:42 info: --------------------------------------------
+2021-05-08 09:56:42 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2021-05-08 09:56:42 info: --------------------------------------------
+2021-05-08 09:56:48 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should add chocolate
+  Expected: You bought bananas, milk, chocolate!
+  Received: You Bought bananas,milk,chocolate
+- addToShoppingCart should remove bananas after adding waffles
+  Expected: You bought milk, chocolate, waffles!
+  Received: You Bought milk,chocolate,waffles
+- addToShoppingCart should remove milk after adding tea
+  Expected: You bought chocolate, waffles, tea!
+  Received: You Bought chocolate,waffles,tea
+
+2021-05-08 09:56:51 error: *** Spell Checker Report ***
+
+
+2021-05-08 09:57:42 info: --------------------------------------------
+2021-05-08 09:57:42 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2021-05-08 09:57:42 info: --------------------------------------------
+2021-05-08 09:57:47 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should add chocolate
+  Expected: You bought bananas, milk, chocolate!
+  Received: You bought bananas,milk,chocolate!
+- addToShoppingCart should remove bananas after adding waffles
+  Expected: You bought milk, chocolate, waffles!
+  Received: You bought milk,chocolate,waffles!
+- addToShoppingCart should remove milk after adding tea
+  Expected: You bought chocolate, waffles, tea!
+  Received: You bought chocolate,waffles,tea!
+
+2021-05-08 09:57:50 error: *** Spell Checker Report ***
+
+
+2021-05-08 09:59:56 info: --------------------------------------------
+2021-05-08 09:59:56 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2021-05-08 09:59:56 info: --------------------------------------------
+2021-05-08 10:00:00 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should add chocolate
+  Expected: You bought bananas, milk, chocolate!
+  Received: You bought bananas,milk,chocolate!
+- addToShoppingCart should remove bananas after adding waffles
+  Expected: You bought milk, chocolate, waffles!
+  Received: You bought milk,chocolate,waffles!
+- addToShoppingCart should remove milk after adding tea
+  Expected: You bought chocolate, waffles, tea!
+  Received: You bought chocolate,waffles,tea!
+
+2021-05-08 10:00:03 error: *** Spell Checker Report ***
+
+
