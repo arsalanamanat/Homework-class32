@@ -1,0 +1,75 @@
+{
+  "node": "v14.16.1",
+  "system": {
+    "manufacturer": "HP",
+    "model": "HP Pavilion x360 Convertible 15-br0xx"
+  },
+  "cpu": {
+    "manufacturer": "Intel®",
+    "brand": "Core™ i5-7200U",
+    "speed": 2.5
+  },
+  "memory": "12 GB",
+  "osInfo": {
+    "platform": "win32",
+    "distro": "Microsoft Windows 10 Home",
+    "release": "10.0.19042"
+  },
+  "vscodeInfo": {
+    "version": "1.56.0",
+    "extensions": [
+      "aaron-bond.better-comments",
+      "bierner.github-markdown-preview",
+      "bierner.markdown-checkbox",
+      "bierner.markdown-emoji",
+      "bierner.markdown-preview-github-styles",
+      "bierner.markdown-yaml-preamble",
+      "CoenraadS.bracket-pair-colorizer",
+      "CoenraadS.bracket-pair-colorizer-2",
+      "DavidAnson.vscode-markdownlint",
+      "dbaeumer.jshint",
+      "dbaeumer.vscode-eslint",
+      "eamodio.gitlens",
+      "esbenp.prettier-vscode",
+      "evgeniypeshkov.syntax-highlighter",
+      "firefox-devtools.vscode-firefox-debug",
+      "generalov.open-in-editor-vscode",
+      "GitHub.vscode-pull-request-github",
+      "hdg.live-html-previewer",
+      "McCarter.start-git-bash",
+      "ms-azuretools.vscode-docker",
+      "msjsdiag.debugger-for-chrome",
+      "ritwickdey.LiveServer",
+      "streetsidesoftware.code-spell-checker",
+      "techer.open-in-browser",
+      "WallabyJs.quokka-vscode"
+    ],
+    "userSettings": {
+      "editor.detectIndentation": false,
+      "editor.minimap.enabled": false,
+      "editor.renderIndentGuides": true,
+      "editor.tabSize": 2,
+      "editor.codeActionsOnSave": {
+        "source.fixAll": true
+      },
+      "eslint.autoFixOnSave": true,
+      "files.autoSave": "onFocusChange",
+      "prettier.singleQuote": true,
+      "prettier.trailingComma": "all",
+      "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "terminal.integrated.shellArgs.windows": [
+        "--login"
+      ],
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "liveServer.settings.donotShowInfoMsg": true,
+      "editor.formatOnSave": true,
+      "html.format.enable": false,
+      "html.format.extraLiners": "",
+      "cSpell.userWords": [
+        "Amanat",
+        "Arslan"
+      ],
+      "workbench.editor.untitled.hint": "hidden"
+    }
+  }
+}
