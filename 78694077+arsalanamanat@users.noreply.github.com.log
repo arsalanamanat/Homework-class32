@@ -6,3 +6,28 @@
 
 
 2021-05-08 07:19:14 info: Disclaimer turned off
+2021-05-08 07:27:31 info: ----------------------------------------
+2021-05-08 07:27:31 info: >>> Running Unit Test `ex2-dogYears` <<<
+2021-05-08 07:27:31 info: ----------------------------------------
+2021-05-08 07:27:36 error: *** Unit Test Error Report ***
+
+- calculateDogAge should give 7 dog years for 1 human year
+  Expected: Your doggie is 7 years old in dog years!
+  Received: Your doggie is 7 years old in dos years!
+- calculateDogAge should give 14 dog years for 2 human years
+  Expected: Your doggie is 14 years old in dog years!
+  Received: Your doggie is 14 years old in dos years!
+- calculateDogAge give 21 dog years for 3 human years
+  Expected: Your doggie is 21 years old in dog years!
+  Received: Your doggie is 21 years old in dos years!
+
+2021-05-08 07:27:39 error: *** Spell Checker Report ***
+
+
+2021-05-08 07:28:03 info: ----------------------------------------
+2021-05-08 07:28:03 info: >>> Running Unit Test `ex2-dogYears` <<<
+2021-05-08 07:28:03 info: ----------------------------------------
+2021-05-08 07:28:07 info: All unit tests passed.
+2021-05-08 07:28:10 error: *** Spell Checker Report ***
+
+
