@@ -12,11 +12,21 @@ it pure. Do the following:
 4. When constructing the new shopping cart array you should make use of the ES5 
    spread syntax.
 ------------------------------------------------------------------------------*/
-function addToShoppingCart(shoppingCartArray, groceryItem) {
+function addToShoppingCart(shoppingCartArray, items) {
   // TODO complete this function
+
+  for (const item in newCart) {
+    if (newCart.length >= 3) {
+      newCart.shift(items);
+    } else {
+      newCart.push(items);
+      return new Array(`${newCart.join(`, `)}`);
+    }
+  }
 }
 
 const shoppingCart = ['bananas', 'milk'];
+const newCart = [...shoppingCart];
 
 const cartAfterFirst = addToShoppingCart(shoppingCart, 'chocolate');
 const cartAfterSecond = addToShoppingCart(cartAfterFirst, 'waffles');

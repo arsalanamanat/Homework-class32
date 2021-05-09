@@ -1,0 +1,6 @@
+*** Unit Test Error Report ***
+
+- filterPrivateData should return a new array with the private parts filtered
+
+*** Spell Checker Report ***
+

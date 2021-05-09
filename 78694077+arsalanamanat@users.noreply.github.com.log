@@ -282,3 +282,126 @@
 2021-05-08 01:29:13 error: *** Spell Checker Report ***
 
 
+2021-05-08 03:57:51 info: -------------------------------------------
+2021-05-08 03:57:51 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-08 03:57:51 info: -------------------------------------------
+2021-05-08 03:57:56 error: *** Unit Test Error Report ***
+
+- filterPrivateData should use object literal shorthand
+- filterPrivateData should return a new array with the private parts filtered
+
+2021-05-08 03:58:00 error: *** Spell Checker Report ***
+
+
+2021-05-08 08:57:49 info: -------------------------------------------
+2021-05-08 08:57:49 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-08 08:57:49 info: -------------------------------------------
+2021-05-08 08:57:55 error: *** Unit Test Error Report ***
+
+- filterPrivateData should use object literal shorthand
+- filterPrivateData should return a new array with the private parts filtered
+
+2021-05-08 08:58:00 error: *** Spell Checker Report ***
+
+
+2021-05-08 10:38:05 info: -------------------------------------------
+2021-05-08 10:38:05 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-08 10:38:05 info: -------------------------------------------
+2021-05-08 10:38:26 error: *** Unit Test Error Report ***
+
+- filterPrivateData should return a new array with the private parts filtered
+
+2021-05-08 10:38:34 error: *** Spell Checker Report ***
+
+
+2021-05-08 10:56:48 info: -------------------------------------------
+2021-05-08 10:56:48 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-08 10:56:48 info: -------------------------------------------
+2021-05-08 10:56:52 error: *** Unit Test Error Report ***
+
+- filterPrivateData should return a new array with the private parts filtered
+
+2021-05-08 10:56:55 error: *** Spell Checker Report ***
+
+
+2021-05-08 10:58:37 info: -------------------------------------------
+2021-05-08 10:58:37 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-08 10:58:37 info: -------------------------------------------
+2021-05-08 10:58:41 error: *** Unit Test Error Report ***
+
+- filterPrivateData should return a new array with the private parts filtered
+
+2021-05-08 10:58:44 error: *** Spell Checker Report ***
+
+
+2021-05-09 07:20:00 info: -------------------------------------------
+2021-05-09 07:20:00 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-09 07:20:00 info: -------------------------------------------
+2021-05-09 07:20:06 error: *** Unit Test Error Report ***
+
+- filterPrivateData should return a new array with the private parts filtered
+
+2021-05-09 07:20:10 error: *** Spell Checker Report ***
+
+
+2021-05-09 07:23:02 info: -------------------------------------------
+2021-05-09 07:23:02 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-09 07:23:02 info: -------------------------------------------
+2021-05-09 07:23:06 error: *** Unit Test Error Report ***
+
+- filterPrivateData should return a new array with the private parts filtered
+
+2021-05-09 07:23:09 error: *** Spell Checker Report ***
+
+
+2021-05-09 07:56:31 info: -------------------------------------------
+2021-05-09 07:56:31 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-09 07:56:31 info: -------------------------------------------
+2021-05-09 07:56:35 error: *** Unit Test Error Report ***
+
+- filterPrivateData should return a new array with the private parts filtered
+
+2021-05-09 07:56:38 error: *** Spell Checker Report ***
+
+
+2021-05-09 08:03:24 info: -------------------------------------------------
+2021-05-09 08:03:24 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-09 08:03:24 info: -------------------------------------------------
+2021-05-09 08:03:28 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should use spread syntax (...) inside an array
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-09 08:03:31 error: *** Spell Checker Report ***
+
+
+2021-05-09 08:11:26 info: -------------------------------------------------
+2021-05-09 08:11:26 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-09 08:11:26 info: -------------------------------------------------
+2021-05-09 08:11:30 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-09 08:11:33 error: *** Spell Checker Report ***
+
+
+2021-05-09 08:34:35 info: -------------------------------------------------
+2021-05-09 08:34:35 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-09 08:34:35 info: -------------------------------------------------
+2021-05-09 08:34:39 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-09 08:34:42 error: *** Spell Checker Report ***
+
+
+2021-05-09 08:35:36 info: -------------------------------------------------
+2021-05-09 08:35:36 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-09 08:35:36 info: -------------------------------------------------
+2021-05-09 08:35:40 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-09 08:35:43 error: *** Spell Checker Report ***
+
+
