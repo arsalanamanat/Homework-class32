@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 'use strict';
 /*------------------------------------------------------------------------------
 In the current exercise we will rewrite the `addToShoppingCart` function to make 
@@ -15,7 +16,7 @@ it pure. Do the following:
 function addToShoppingCart(shoppingCartArray, items) {
   // TODO complete this function
 
-  for (const item in newCart) {
+  for (const item of newCart) {
     if (newCart.length >= 3) {
       newCart.shift(items);
     } else {

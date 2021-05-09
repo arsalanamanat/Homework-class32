@@ -405,3 +405,13 @@
 2021-05-09 08:35:43 error: *** Spell Checker Report ***
 
 
+2021-05-09 09:20:23 info: -------------------------------------------
+2021-05-09 09:20:23 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-09 09:20:23 info: -------------------------------------------
+2021-05-09 09:20:28 error: *** Unit Test Error Report ***
+
+- filterPrivateData should return a new array with the private parts filtered
+
+2021-05-09 09:20:30 error: *** Spell Checker Report ***
+
+
