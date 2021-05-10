@@ -1,7 +1,5 @@
 'use strict';
 
-const { stringify } = require('comment-json');
-
 /*------------------------------------------------------------------------------
 Let's do some grocery shopping! We're going to get some things to cook dinner
 with. However, you like to spend money and always buy too many things. So when 
@@ -26,15 +24,11 @@ const shoppingCart = ['bananas', 'milk'];
 
 function addToShoppingCart(items) {
   // TODO complete this function
-  // eslint-disable-next-line no-restricted-syntax
-  for (const item in shoppingCart) {
-    if (shoppingCart.length >= 3) {
-      shoppingCart.shift(items);
-    } else {
-      shoppingCart.push(items);
-      return `You bought ${shoppingCart.join(', ')}!`;
-    }
+  shoppingCart.push(items);
+  if (shoppingCart.length > 3) {
+    shoppingCart.shift();
   }
+  return `You bought ${shoppingCart.join(', ')}!`;
 }
 
 console.log(addToShoppingCart('chocolate')); // "You bought bananas, milk, chocolate!"

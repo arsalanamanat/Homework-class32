@@ -26,26 +26,16 @@ const employeeRecords = [
   },
 ];
 
-function filterPrivateData(employeeRecords) {
+function filterPrivateData(employee) {
   // TODO complete this function
-
-  const [
-    { name, occupation, email },
-    { name: name1, occupation: occupation1, email: email1 },
-  ] = employeeRecords;
-
-  const newArray = [
-    {
+  let newArray = [];
+  newArray = employee.map(({ name, occupation, email }) => {
+    return {
       name,
       occupation,
       email,
-    },
-    {
-      name1,
-      occupation1,
-      email1,
-    },
-  ];
+    };
+  });
   return newArray;
 }
 

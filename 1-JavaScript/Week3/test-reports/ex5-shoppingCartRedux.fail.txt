@@ -1,6 +1,3 @@
-*** Unit Test Error Report ***
-
-- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
 
 *** Spell Checker Report ***
 

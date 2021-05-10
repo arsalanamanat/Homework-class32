@@ -415,3 +415,139 @@
 2021-05-09 09:20:30 error: *** Spell Checker Report ***
 
 
+2021-05-09 07:52:01 info: -------------------------------------------
+2021-05-09 07:52:01 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-09 07:52:01 info: -------------------------------------------
+2021-05-09 07:52:08 info: All unit tests passed.
+2021-05-09 07:52:12 error: *** Spell Checker Report ***
+
+
+2021-05-09 07:56:41 info: -------------------------------------------------
+2021-05-09 07:56:41 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-09 07:56:41 info: -------------------------------------------------
+2021-05-09 07:56:46 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-09 07:56:50 error: *** Spell Checker Report ***
+
+
+2021-05-09 08:29:28 info: -------------------------------------------------
+2021-05-09 08:29:29 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-09 08:29:29 info: -------------------------------------------------
+2021-05-09 08:29:35 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should exist and be executable
+- addToShoppingCart should be a function that takes two parameters
+- addToShoppingCart should use spread syntax (...) inside an array
+- addToShoppingCart should not modify ('mutate') its arguments
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-09 08:29:39 error: *** Spell Checker Report ***
+
+
+2021-05-09 08:31:28 info: -------------------------------------------------
+2021-05-09 08:31:28 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-09 08:31:28 info: -------------------------------------------------
+2021-05-09 08:31:34 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-09 08:31:37 error: *** Spell Checker Report ***
+
+
+2021-05-09 09:19:52 info: -------------------------------------------------
+2021-05-09 09:19:52 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-09 09:19:52 info: -------------------------------------------------
+2021-05-09 09:19:59 info: All unit tests passed.
+2021-05-09 09:20:05 error: *** Spell Checker Report ***
+
+
+2021-05-10 08:14:29 info: -------------------------------------------------
+2021-05-10 08:14:29 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-10 08:14:29 info: -------------------------------------------------
+2021-05-10 08:14:34 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-10 08:14:38 error: *** Spell Checker Report ***
+
+
+2021-05-10 08:15:04 info: -------------------------------------------------
+2021-05-10 08:15:04 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-10 08:15:04 info: -------------------------------------------------
+2021-05-10 08:15:09 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should exist and be executable
+- addToShoppingCart should be a function that takes two parameters
+- addToShoppingCart should use spread syntax (...) inside an array
+- addToShoppingCart should not modify ('mutate') its arguments
+- addToShoppingCart should return a new array with new the item addded while taking out older items if items > 3
+
+2021-05-10 08:15:12 error: *** Spell Checker Report ***
+
+
+2021-05-10 08:30:39 info: -------------------------------------------------
+2021-05-10 08:30:39 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-10 08:30:39 info: -------------------------------------------------
+2021-05-10 08:30:43 info: All unit tests passed.
+2021-05-10 08:30:46 error: *** Spell Checker Report ***
+
+
+2021-05-10 08:34:30 info: -------------------------------------------------
+2021-05-10 08:34:30 info: >>> Running Unit Test `ex5-shoppingCartRedux` <<<
+2021-05-10 08:34:30 info: -------------------------------------------------
+2021-05-10 08:34:34 info: All unit tests passed.
+2021-05-10 08:34:37 error: *** Spell Checker Report ***
+
+
+2021-05-10 08:35:15 info: --------------------------------------------
+2021-05-10 08:35:15 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2021-05-10 08:35:15 info: --------------------------------------------
+2021-05-10 08:35:19 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should add chocolate
+  Expected: You bought bananas, milk, chocolate!
+  Received: chocolate,waffles,tea
+- addToShoppingCart should remove bananas after adding waffles
+  Expected: You bought milk, chocolate, waffles!
+  Received: chocolate,waffles,tea
+- addToShoppingCart should remove milk after adding tea
+  Expected: You bought chocolate, waffles, tea!
+  Received: chocolate,waffles,tea
+
+2021-05-10 08:35:22 error: *** Spell Checker Report ***
+
+
+2021-05-10 08:36:23 info: --------------------------------------------
+2021-05-10 08:36:23 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2021-05-10 08:36:23 info: --------------------------------------------
+2021-05-10 08:36:27 error: *** Unit Test Error Report ***
+
+- addToShoppingCart should add chocolate
+  Expected: You bought bananas, milk, chocolate!
+  Received: You bought bananas, milk, chocolate
+- addToShoppingCart should remove bananas after adding waffles
+  Expected: You bought milk, chocolate, waffles!
+  Received: You bought milk, chocolate, waffles
+- addToShoppingCart should remove milk after adding tea
+  Expected: You bought chocolate, waffles, tea!
+  Received: You bought chocolate, waffles, tea
+
+2021-05-10 08:36:30 error: *** Spell Checker Report ***
+
+
+2021-05-10 08:36:56 info: --------------------------------------------
+2021-05-10 08:36:57 info: >>> Running Unit Test `ex4-shoppingCart` <<<
+2021-05-10 08:36:57 info: --------------------------------------------
+2021-05-10 08:37:00 info: All unit tests passed.
+2021-05-10 08:37:03 error: *** Spell Checker Report ***
+
+
+2021-05-10 08:37:39 info: -------------------------------------------
+2021-05-10 08:37:39 info: >>> Running Unit Test `ex7-mindPrivacy` <<<
+2021-05-10 08:37:39 info: -------------------------------------------
+2021-05-10 08:37:42 info: All unit tests passed.
+2021-05-10 08:37:45 error: *** Spell Checker Report ***
+
+

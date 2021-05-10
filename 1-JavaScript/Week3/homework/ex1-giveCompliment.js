@@ -19,20 +19,23 @@
 -----------------------------------------------------------------------------*/
 function giveCompliment(name) {
   // TODO complete this function
-  let compliments = ['Great',
-  'Awesome',
-  'Fantastic',
-  'Superb',
-  'Marvelous',
-  'Amazing',
-  'incredible',
-  'admirable',
-  'remarkable',
-  'Wonderful',]
+  const compliments = [
+    'Great',
+    'Awesome',
+    'Fantastic',
+    'Superb',
+    'Marvelous',
+    'Amazing',
+    'incredible',
+    'admirable',
+    'remarkable',
+    'Wonderful',
+  ];
 
-  let compliment = compliments[Math.floor(Math.random()* compliments.length)];
+  const compliment =
+    compliments[Math.floor(Math.random() * compliments.length)];
   return `You are ${compliment}, ${name}!`;
-};
+}
 
 // TODO substitute your own name for "HackYourFuture"
 const myName = 'Arslan Amanat';
