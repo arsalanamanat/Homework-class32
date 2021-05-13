@@ -1,0 +1,7 @@
+*** Unit Test Error Report ***
+
+- doubleEvenNumbers should use `map`
+- doubleEvenNumbers should use `filter`
+
+*** Spell Checker Report ***
+

@@ -1,0 +1,34 @@
+2021-05-13 08:18:12 info: -------------------------------------------------
+2021-05-13 08:18:12 info: >>> Running Unit Test `ex1-doubleEvenNumbers` <<<
+2021-05-13 08:18:12 info: -------------------------------------------------
+2021-05-13 08:18:18 error: *** Unit Test Error Report ***
+
+- doubleEvenNumbers should use `map`
+- doubleEvenNumbers should use `filter`
+
+2021-05-13 08:18:21 error: *** Spell Checker Report ***
+
+
+2021-05-13 08:22:00 info: -------------------------------------------------
+2021-05-13 08:22:00 info: >>> Running Unit Test `ex1-doubleEvenNumbers` <<<
+2021-05-13 08:22:00 info: -------------------------------------------------
+2021-05-13 08:22:04 error: *** Unit Test Error Report ***
+
+- doubleEvenNumbers should return doubled even numbers only
+- doubleEvenNumbers should use `map`
+- doubleEvenNumbers should use `filter`
+
+2021-05-13 08:22:07 error: *** Spell Checker Report ***
+
+
+2021-05-13 08:24:26 info: -------------------------------------------------
+2021-05-13 08:24:26 info: >>> Running Unit Test `ex1-doubleEvenNumbers` <<<
+2021-05-13 08:24:26 info: -------------------------------------------------
+2021-05-13 08:24:30 error: *** Unit Test Error Report ***
+
+- doubleEvenNumbers should use `map`
+- doubleEvenNumbers should use `filter`
+
+2021-05-13 08:24:33 error: *** Spell Checker Report ***
+
+
