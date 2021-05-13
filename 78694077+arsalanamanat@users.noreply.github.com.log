@@ -46,3 +46,50 @@
 2021-05-13 09:44:22 error: *** Spell Checker Report ***
 
 
+2021-05-13 10:26:03 info: ------------------------------------------------
+2021-05-13 10:26:03 info: >>> Running Unit Test `ex4-publishSubscribe` <<<
+2021-05-13 10:26:03 info: ------------------------------------------------
+2021-05-13 10:26:07 error: *** Unit Test Error Report ***
+
+- createPublisher should notify all subscribers of any notification
+
+2021-05-13 10:26:10 error: *** Spell Checker Report ***
+
+
+2021-05-13 10:34:15 info: ------------------------------------------------
+2021-05-13 10:34:15 info: >>> Running Unit Test `ex4-publishSubscribe` <<<
+2021-05-13 10:34:15 info: ------------------------------------------------
+2021-05-13 10:34:19 error: *** Unit Test Error Report ***
+
+- createPublisher should notify all subscribers of any notification
+
+2021-05-13 10:34:21 error: *** Spell Checker Report ***
+
+
+2021-05-13 10:34:47 info: ------------------------------------------------
+2021-05-13 10:34:47 info: >>> Running Unit Test `ex4-publishSubscribe` <<<
+2021-05-13 10:34:47 info: ------------------------------------------------
+2021-05-13 10:34:51 error: *** Unit Test Error Report ***
+
+- createPublisher should notify all subscribers of any notification
+
+2021-05-13 10:34:54 error: *** Spell Checker Report ***
+
+
+2021-05-13 10:35:57 info: ------------------------------------------------
+2021-05-13 10:35:57 info: >>> Running Unit Test `ex4-publishSubscribe` <<<
+2021-05-13 10:35:57 info: ------------------------------------------------
+2021-05-13 10:36:01 error: *** Unit Test Error Report ***
+
+- createPublisher should notify all subscribers of any notification
+
+2021-05-13 10:36:03 error: *** Spell Checker Report ***
+
+
+2021-05-13 10:46:39 info: ------------------------------------------------
+2021-05-13 10:46:39 info: >>> Running Unit Test `ex4-publishSubscribe` <<<
+2021-05-13 10:46:39 info: ------------------------------------------------
+2021-05-13 10:46:44 info: All unit tests passed.
+2021-05-13 10:46:48 error: *** Spell Checker Report ***
+
+
