@@ -39,3 +39,10 @@
 2021-05-13 09:38:10 error: *** Spell Checker Report ***
 
 
+2021-05-13 09:44:15 info: --------------------------------------------
+2021-05-13 09:44:15 info: >>> Running Unit Test `ex3-lemonAllergy` <<<
+2021-05-13 09:44:15 info: --------------------------------------------
+2021-05-13 09:44:19 info: All unit tests passed.
+2021-05-13 09:44:22 error: *** Spell Checker Report ***
+
+
