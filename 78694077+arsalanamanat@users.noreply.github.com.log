@@ -93,3 +93,20 @@
 2021-05-13 10:46:48 error: *** Spell Checker Report ***
 
 
+2021-05-14 09:51:04 info: --------------------------------------
+2021-05-14 09:51:04 info: >>> Running Unit Test `ex5-wallet` <<<
+2021-05-14 09:51:04 info: --------------------------------------
+2021-05-14 09:51:09 error: *** Unit Test Error Report ***
+
+- wallet q2: What is in the Call Stack, from top to bottom?
+
+2021-05-14 09:51:15 error: *** Spell Checker Report ***
+
+
+2021-05-14 09:51:41 info: --------------------------------------
+2021-05-14 09:51:41 info: >>> Running Unit Test `ex5-wallet` <<<
+2021-05-14 09:51:41 info: --------------------------------------
+2021-05-14 09:51:45 info: All unit tests passed.
+2021-05-14 09:51:48 error: *** Spell Checker Report ***
+
+
