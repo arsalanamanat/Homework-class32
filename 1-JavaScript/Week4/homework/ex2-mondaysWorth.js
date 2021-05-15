@@ -35,7 +35,7 @@ function computeEarnings(tasks, rate) {
   const hourlyWage = tasks
     .map(({ duration }) => (duration / 60) * rate)
     .reduce((acc, val) => acc + val);
-  return `€${Number.parseFloat(hourlyWage)}0`;
+  return `€${Number.parseFloat(hourlyWage).toFixed(2)}`;
 }
 
 // example use case
