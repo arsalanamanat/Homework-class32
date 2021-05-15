@@ -110,3 +110,10 @@
 2021-05-14 09:51:48 error: *** Spell Checker Report ***
 
 
+2021-05-15 07:41:32 info: --------------------------------------------
+2021-05-15 07:41:32 info: >>> Running Unit Test `ex2-mondaysWorth` <<<
+2021-05-15 07:41:32 info: --------------------------------------------
+2021-05-15 07:41:37 info: All unit tests passed.
+2021-05-15 07:41:40 error: *** Spell Checker Report ***
+
+
