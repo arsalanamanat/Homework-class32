@@ -17,13 +17,12 @@ it pure. Do the following:
 function addToShoppingCart(shopping, item) {
   // TODO complete this function
 
-  let finalCart;
-  const newCart = [...shopping];
-  newCart.push(item);
-  if (newCart.length > 3) {
-    newCart.shift();
+  const finalCart = [...shopping];
+  finalCart.push(item);
+  if (finalCart.length > 3) {
+    finalCart.shift();
   }
-  return (finalCart = [...newCart]);
+  return finalCart;
 }
 
 const shoppingCart = ['bananas', 'milk'];

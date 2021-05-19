@@ -38,6 +38,9 @@ function calculateTotalPrice(val) {
   }
   return `Total: €${totalPrice}`;
 }
+
+calculateTotalPrice(cartForParty);
+
 // this is one example, you will need to write a different object
 calculateTotalPrice({
   apples: 12,
