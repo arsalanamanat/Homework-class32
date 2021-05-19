@@ -551,3 +551,10 @@
 2021-05-10 08:37:45 error: *** Spell Checker Report ***
 
 
+2021-05-19 07:22:33 info: -------------------------------------------
+2021-05-19 07:22:33 info: >>> Running Unit Test `ex3-tellFortune` <<<
+2021-05-19 07:22:33 info: -------------------------------------------
+2021-05-19 07:23:00 info: All unit tests passed.
+2021-05-19 07:23:08 error: *** Spell Checker Report ***
+
+
