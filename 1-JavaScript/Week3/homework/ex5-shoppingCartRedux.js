@@ -17,8 +17,7 @@ it pure. Do the following:
 function addToShoppingCart(shopping, item) {
   // TODO complete this function
 
-  const finalCart = [...shopping];
-  finalCart.push(item);
+  const finalCart = [...shopping, item];
   if (finalCart.length > 3) {
     finalCart.shift();
   }
