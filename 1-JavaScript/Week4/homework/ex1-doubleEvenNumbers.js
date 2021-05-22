@@ -8,10 +8,10 @@ Let's rewrite it (or _refactor_ it, as professional developers would call it):
 - Using the `map` and `filter` functions, rewrite the function body of
 `doubleEvenNumbers`.
 ------------------------------------------------------------------------------*/
-const doubleEvenNumbers = (number) => {
+const doubleEvenNumbers = (numbers) => {
   // TODO rewrite the function body using `map` and `filter`.
-  const newNumbers = number
-    .filter((items) => items % 2 === 0)
+  const newNumbers = numbers
+    .filter((item) => item % 2 === 0)
     .map((data) => data * 2);
 
   return newNumbers;

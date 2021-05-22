@@ -46,7 +46,7 @@ function createPublisher() {
     },
     notify(notification) {
       // TODO complete this function
-      subscribers.forEach((data) => data(notification));
+      subscribers.forEach((message) => message(notification));
     },
   };
 }
