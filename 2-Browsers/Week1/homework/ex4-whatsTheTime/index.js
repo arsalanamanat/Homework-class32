@@ -9,11 +9,10 @@ function addCurrentTime() {
   // TODO complete this function
 
   setInterval(function () {
-    const date = new Date();
-    const currentTime = `${date.getHours()}: ${date.getMinutes()}: ${date.getSeconds()}`;
-    document.body.textContent = currentTime;
+    const getDate = new Date();
+    const getCurrentTime = `${getDate.getHours()}: ${getDate.getMinutes()}: ${getDate.getSeconds()}`;
+    document.body.textContent = getCurrentTime;
   }, 3000);
-  return addCurrentTime;
 }
 
 // TODO execute `addCurrentTime` when the browser has completed loading the page
