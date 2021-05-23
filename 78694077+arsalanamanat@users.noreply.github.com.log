@@ -1,0 +1,124 @@
+2021-05-23 03:59:02 info: ----------------------------------------
+2021-05-23 03:59:02 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 03:59:02 info: ----------------------------------------
+2021-05-23 03:59:52 error: *** Unit Test Error Report ***
+
+- Generated HTML should contain a <ul> that is a child of <div id="bookList">
+- Generated HTML should contain a <ul> with 3 <li> elements
+- Generated HTML should contain an <li> with title and author for each book of the `myBooks` array
+Cannot read property 'forEach' of undefined
+- Generated HTML should contain an <img> element for each book
+
+2021-05-23 03:59:58 error: *** Spell Checker Report ***
+
+
+2021-05-23 04:33:45 info: ----------------------------------------
+2021-05-23 04:33:45 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 04:33:45 info: ----------------------------------------
+2021-05-23 04:33:52 error: *** Unit Test Error Report ***
+
+- Generated HTML should contain an <img> element for each book
+
+2021-05-23 04:33:54 error: *** Spell Checker Report ***
+
+
+2021-05-23 05:11:41 info: ----------------------------------------
+2021-05-23 05:11:41 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 05:11:41 info: ----------------------------------------
+2021-05-23 05:11:50 error: *** Unit Test Error Report ***
+
+- Generated HTML should contain a <ul> that is a child of <div id="bookList">
+- Generated HTML should contain a <ul> with 3 <li> elements
+- Generated HTML should contain an <li> with title and author for each book of the `myBooks` array
+- Generated HTML should contain an <img> element for each book
+
+2021-05-23 05:11:54 error: *** Spell Checker Report ***
+
+
+2021-05-23 05:12:08 info: ----------------------------------------
+2021-05-23 05:12:08 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 05:12:08 info: ----------------------------------------
+2021-05-23 05:12:15 error: *** Unit Test Error Report ***
+
+- Generated HTML should contain an <img> element for each book
+
+2021-05-23 05:12:18 error: *** Spell Checker Report ***
+
+
+2021-05-23 05:12:54 info: ----------------------------------------
+2021-05-23 05:12:54 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 05:12:54 info: ----------------------------------------
+2021-05-23 05:13:01 error: *** Unit Test Error Report ***
+
+- Generated HTML should contain a <ul> that is a child of <div id="bookList">
+- Generated HTML should contain a <ul> with 3 <li> elements
+- Generated HTML should contain an <li> with title and author for each book of the `myBooks` array
+- Generated HTML should contain an <img> element for each book
+
+2021-05-23 05:13:04 error: *** Spell Checker Report ***
+
+
+2021-05-23 05:13:15 info: ----------------------------------------
+2021-05-23 05:13:15 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 05:13:15 info: ----------------------------------------
+2021-05-23 05:13:22 error: *** Unit Test Error Report ***
+
+- Generated HTML HTML should be syntactically valid
+  inline
+    10:118  error  <img> is missing required "src" attribute  element-required-attributes
+    10:118  error  <img> is missing required "alt" attribute  wcag/h37
+    10:238  error  <img> is missing required "src" attribute  element-required-attributes
+    10:238  error  <img> is missing required "alt" attribute  wcag/h37
+    10:358  error  <img> is missing required "src" attribute  element-required-attributes
+    10:358  error  <img> is missing required "alt" attribute  wcag/h37
+  
+  ✖ 6 problems (6 errors, 0 warnings)
+  
+
+2021-05-23 05:13:25 error: *** Spell Checker Report ***
+
+
+2021-05-23 05:44:39 info: ----------------------------------------
+2021-05-23 05:44:39 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 05:44:39 info: ----------------------------------------
+2021-05-23 05:44:46 error: *** Unit Test Error Report ***
+
+- Generated HTML HTML should be syntactically valid
+  inline
+    10:196  error  <img> is missing required "alt" attribute  wcag/h37
+    10:396  error  <img> is missing required "alt" attribute  wcag/h37
+    10:587  error  <img> is missing required "alt" attribute  wcag/h37
+  
+  ✖ 3 problems (3 errors, 0 warnings)
+  
+
+2021-05-23 05:44:49 error: *** Spell Checker Report ***
+
+
+2021-05-23 05:46:38 info: ----------------------------------------
+2021-05-23 05:46:38 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 05:46:38 info: ----------------------------------------
+2021-05-23 05:46:45 info: All unit tests passed.
+2021-05-23 05:46:48 error: *** Spell Checker Report ***
+
+
+2021-05-23 05:47:30 info: ----------------------------------------
+2021-05-23 05:47:30 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 05:47:30 info: ----------------------------------------
+2021-05-23 05:47:36 error: *** Unit Test Error Report ***
+
+- Generated HTML should contain a <ul> that is a child of <div id="bookList">
+- Generated HTML should contain a <ul> with 3 <li> elements
+- Generated HTML should contain an <li> with title and author for each book of the `myBooks` array
+- Generated HTML should contain an <img> element for each book
+
+2021-05-23 05:47:39 error: *** Spell Checker Report ***
+
+
+2021-05-23 05:47:52 info: ----------------------------------------
+2021-05-23 05:47:52 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-23 05:47:52 info: ----------------------------------------
+2021-05-23 05:47:58 info: All unit tests passed.
+2021-05-23 05:48:01 error: *** Spell Checker Report ***
+
+
