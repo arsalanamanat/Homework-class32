@@ -40,6 +40,7 @@ function createBookList(books) {
   const newUl = document.createElement('ul');
   let list;
   let image;
+  let para;
 
   // Creating Elements by Using the For Loop
   for (let i = 0; i < books.length; i++) {
@@ -69,6 +70,7 @@ function createBookList(books) {
       list.style.backgroundColor = 'red';
     }
   }
+
   newUl.style.listStyle = 'none';
   newUl.style.display = 'inline-flex';
 

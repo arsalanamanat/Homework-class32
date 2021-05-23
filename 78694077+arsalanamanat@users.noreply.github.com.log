@@ -122,3 +122,20 @@ Cannot read property 'forEach' of undefined
 2021-05-23 05:48:01 error: *** Spell Checker Report ***
 
 
+2021-05-23 10:21:12 info: ---------------------------------------
+2021-05-23 10:21:12 info: >>> Running Unit Test `ex2-aboutMe` <<<
+2021-05-23 10:21:12 info: ---------------------------------------
+2021-05-23 10:21:19 error: *** Unit Test Error Report ***
+
+- Generated HTML - each <li> should have the CSS class `list-item`
+
+2021-05-23 10:21:22 error: *** Spell Checker Report ***
+
+
+2021-05-23 10:22:29 info: ---------------------------------------
+2021-05-23 10:22:29 info: >>> Running Unit Test `ex2-aboutMe` <<<
+2021-05-23 10:22:29 info: ---------------------------------------
+2021-05-23 10:22:35 info: All unit tests passed.
+2021-05-23 10:22:38 error: *** Spell Checker Report ***
+
+

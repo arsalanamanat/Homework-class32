@@ -9,3 +9,15 @@
 ------------------------------------------------------------------------------*/
 
 // TODO add your JavaScript code here.
+const body = document.querySelector('body');
+body.style.fontFamily = 'Arial, sans-serif';
+
+const spanId = document.querySelectorAll('span');
+spanId[0].id = 'Aerry';
+spanId[1].id = 'Chicken-Biryani';
+spanId[2].id = 'Quetta-Pakistan';
+
+const listItems = document.querySelectorAll('li');
+listItems.forEach((item) => (item.className = 'list-item'));
+
+console.log(listItems.item);
