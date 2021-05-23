@@ -7,6 +7,14 @@
 ------------------------------------------------------------------------------*/
 function addCurrentTime() {
   // TODO complete this function
+
+  setInterval(function () {
+    const date = new Date();
+    const currentTime = `${date.getHours()}: ${date.getMinutes()}: ${date.getSeconds()}`;
+    document.body.textContent = currentTime;
+  }, 3000);
+  return addCurrentTime;
 }
 
 // TODO execute `addCurrentTime` when the browser has completed loading the page
+window.addEventListener('DOMContentLoaded', addCurrentTime);

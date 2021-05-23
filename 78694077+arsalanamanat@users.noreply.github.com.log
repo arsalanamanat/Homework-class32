@@ -164,3 +164,52 @@ Cannot read property 'forEach' of undefined
 2021-05-23 10:52:47 error: *** Spell Checker Report ***
 
 
+2021-05-23 11:06:16 info: --------------------------------------------
+2021-05-23 11:06:17 info: >>> Running Unit Test `ex4-whatsTheTime` <<<
+2021-05-23 11:06:17 info: --------------------------------------------
+2021-05-23 11:06:23 error: *** Unit Test Error Report ***
+
+- whatsTheTime should use `setInterval()`
+- whatsTheTime should use `window.onload` or `window.addEventListener()` for the `load` or `DOMContentLoaded` event
+
+2021-05-23 11:06:26 error: *** Spell Checker Report ***
+
+
+2021-05-23 11:07:11 info: --------------------------------------------
+2021-05-23 11:07:11 info: >>> Running Unit Test `ex4-whatsTheTime` <<<
+2021-05-23 11:07:11 info: --------------------------------------------
+2021-05-23 11:07:17 error: *** Unit Test Error Report ***
+
+- whatsTheTime should use `setInterval()`
+- whatsTheTime should use `window.onload` or `window.addEventListener()` for the `load` or `DOMContentLoaded` event
+
+2021-05-23 11:07:20 error: *** Spell Checker Report ***
+
+
+2021-05-23 11:09:30 info: --------------------------------------------
+2021-05-23 11:09:30 info: >>> Running Unit Test `ex4-whatsTheTime` <<<
+2021-05-23 11:09:30 info: --------------------------------------------
+2021-05-23 11:09:37 error: *** Unit Test Error Report ***
+
+- whatsTheTime should use `window.onload` or `window.addEventListener()` for the `load` or `DOMContentLoaded` event
+
+2021-05-23 11:09:40 error: *** Spell Checker Report ***
+
+
+2021-05-23 11:13:12 info: --------------------------------------------
+2021-05-23 11:13:12 info: >>> Running Unit Test `ex4-whatsTheTime` <<<
+2021-05-23 11:13:12 info: --------------------------------------------
+2021-05-23 11:13:19 error: *** Unit Test Error Report ***
+
+- whatsTheTime `window.onload` or `window.addEventListener` should not call its event handler function
+
+2021-05-23 11:13:21 error: *** Spell Checker Report ***
+
+
+2021-05-23 11:13:34 info: --------------------------------------------
+2021-05-23 11:13:34 info: >>> Running Unit Test `ex4-whatsTheTime` <<<
+2021-05-23 11:13:34 info: --------------------------------------------
+2021-05-23 11:13:41 info: All unit tests passed.
+2021-05-23 11:13:44 error: *** Spell Checker Report ***
+
+
