@@ -139,3 +139,28 @@ Cannot read property 'forEach' of undefined
 2021-05-23 10:22:38 error: *** Spell Checker Report ***
 
 
+2021-05-23 10:35:40 info: ------------------------------------------
+2021-05-23 10:35:40 info: >>> Running Unit Test `ex3-hijackLogo` <<<
+2021-05-23 10:35:40 info: ------------------------------------------
+2021-05-23 10:35:44 info: All unit tests passed.
+2021-05-23 10:35:47 error: *** Spell Checker Report ***
+
+
+2021-05-23 10:36:23 info: ------------------------------------------
+2021-05-23 10:36:23 info: >>> Running Unit Test `ex3-hijackLogo` <<<
+2021-05-23 10:36:23 info: ------------------------------------------
+2021-05-23 10:36:27 error: *** Unit Test Error Report ***
+
+- hijackLogo should set the `src` property
+- hijackLogo should set the `srcset` property
+
+2021-05-23 10:36:30 error: *** Spell Checker Report ***
+
+
+2021-05-23 10:52:41 info: ------------------------------------------
+2021-05-23 10:52:41 info: >>> Running Unit Test `ex3-hijackLogo` <<<
+2021-05-23 10:52:41 info: ------------------------------------------
+2021-05-23 10:52:45 info: All unit tests passed.
+2021-05-23 10:52:47 error: *** Spell Checker Report ***
+
+
