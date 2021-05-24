@@ -213,3 +213,30 @@ Cannot read property 'forEach' of undefined
 2021-05-23 11:13:44 error: *** Spell Checker Report ***
 
 
+2021-05-24 12:44:08 info: ---------------------------------------
+2021-05-24 12:44:08 info: >>> Running Unit Test `ex5-catWalk` <<<
+2021-05-24 12:44:08 info: ---------------------------------------
+2021-05-24 12:44:40 error: *** Unit Test Error Report ***
+
+- catWalk should use `window.onload` or `window.addEventListener()` for the `load` or `DOMContentLoaded` event
+
+2021-05-24 12:44:48 error: *** Spell Checker Report ***
+
+
+2021-05-24 12:45:51 info: ---------------------------------------
+2021-05-24 12:45:51 info: >>> Running Unit Test `ex5-catWalk` <<<
+2021-05-24 12:45:51 info: ---------------------------------------
+2021-05-24 12:45:59 error: *** Unit Test Error Report ***
+
+- catWalk should use `window.onload` or `window.addEventListener()` for the `load` or `DOMContentLoaded` event
+
+2021-05-24 12:46:03 error: *** Spell Checker Report ***
+
+
+2021-05-24 12:46:22 info: ---------------------------------------
+2021-05-24 12:46:23 info: >>> Running Unit Test `ex5-catWalk` <<<
+2021-05-24 12:46:23 info: ---------------------------------------
+2021-05-24 12:46:31 info: All unit tests passed.
+2021-05-24 12:46:35 error: *** Spell Checker Report ***
+
+
