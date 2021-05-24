@@ -21,6 +21,38 @@
 -----------------------------------------------------------------------------*/
 function catWalk() {
   // TODO complete this function
+
+  // Grabbing the IMG and Storing insinde the Variable Using Initial Value =0; to Calculate the Pixels
+  const getImage = document.querySelector('IMG');
+  let initialValue = 0;
+
+  //This Function will make the cat Move on the screen in direction to right.
+  let getCatMoving = setInterval(makeCatWalk, 50);
+  function makeCatWalk() {
+    initialValue += 10;
+    getImage.style.left = `${initialValue}px`;
+
+    // This statemnt will make sure the loop will be continue when the cat reached the right corner
+
+    if (initialValue === 1080) {
+      initialValue = 0;
+    }
+
+    // This statement will bring the dancing cat on screen a
+
+    if (initialValue === 520) {
+      clearInterval(getCatMoving);
+      getImage.src =
+        'https://media1.tenor.com/images/2de63e950fb254920054f9bd081e8157/tenor.gif';
+
+      setTimeout(function () {
+        getImage.src =
+          'http://www.anniemation.com/clip_art/images/cat-walk.gif';
+        getCatMoving = setInterval(makeCatWalk, 50);
+      }, 5000);
+    }
+  }
 }
 
 // TODO execute `catWalk` when the browser has completed loading the page
+window.addEventListener('DOMContentLoaded', catWalk);
