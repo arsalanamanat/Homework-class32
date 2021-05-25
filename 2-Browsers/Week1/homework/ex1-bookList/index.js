@@ -37,42 +37,44 @@ const myBooks = [
 
 function createBookList(books) {
   // your code goes in here, return the ul element
+
   const newUl = document.createElement('ul');
-  let list;
-  let image;
-  let para;
+  let listItems;
+  let images;
+  let paragraph;
 
-  // Creating Elements by Using the For Loop
-  for (let i = 0; i < books.length; i++) {
+  // creating li, P and IMG elements using a forEach Loop
+  books.forEach((book) => {
     newUl
-      .appendChild((list = document.createElement('li')))
+      .appendChild((listItems = document.createElement('li')))
       .appendChild(
-        (para = document.createElement('p'))
-      ).textContent = `${books[i].title} - ${books[i].author} `;
+        (paragraph = document.createElement('p'))
+      ).textContent = `${book.title} - ${book.author}`;
 
-    list.appendChild((image = document.createElement('IMG')));
-    list.style.margin = '20px 20px';
-    list.style.padding = '10px';
-    image.style.maxWidth = '60%';
-    image.alt = `Authors : ${books[i].author}`;
+    listItems.appendChild((images = document.createElement('IMG')));
 
-    if (books[i].author === 'Don Norman') {
-      image.src = './assets/the_design_of_everyday_things.jpg';
-    } else if (books[i].author === 'Brian Christian') {
-      image.src = './assets/the_most_human_human.jpg';
+    if (book.author === 'Don Norman') {
+      images.src = './assets/the_design_of_everyday_things.jpg';
+    } else if (book.author === 'Brian Christian') {
+      images.src = './assets/the_most_human_human.jpg';
     } else {
-      image.src = './assets/the_pragmatic_programmer.jpg';
+      images.src = './assets/the_pragmatic_programmer.jpg';
     }
 
-    if (books[i].alreadyRead === true) {
-      list.style.backgroundColor = 'green';
+    if (book.alreadyRead === true) {
+      listItems.style.backgroundColor = 'green';
     } else {
-      list.style.backgroundColor = 'red';
+      listItems.style.backgroundColor = 'red';
     }
-  }
 
-  newUl.style.listStyle = 'none';
-  newUl.style.display = 'inline-flex';
+    newUl.style.listStyle = 'none';
+    newUl.style.padding = '20px';
+    listItems.style.margin = '15px';
+    listItems.style.minWidth = '350px';
+    listItems.style.width = '25%';
+    listItems.style.padding = '10px';
+    images.style.maxWidth = '60%';
+  });
 
   return newUl;
 }

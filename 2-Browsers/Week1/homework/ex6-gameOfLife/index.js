@@ -11,10 +11,13 @@ const NUM_ROWS = 40;
 // life or death
 function createCell(x, y) {
   const alive = Math.random() > 0.5;
+  const lifeTime = 0;
+
   return {
     x,
     y,
     alive,
+    lifeTime,
   };
 }
 
@@ -54,7 +57,7 @@ function createGame(context, numRows, numColumns) {
 
     if (cell.alive) {
       // Draw living cell inside background
-      context.fillStyle = `rgb(24, 215, 236)`;
+      context.fillStyle = `rgb(24, 215, 236`;
       context.fillRect(
         cell.x * CELL_SIZE + 1,
         cell.y * CELL_SIZE + 1,

@@ -240,3 +240,77 @@ Cannot read property 'forEach' of undefined
 2021-05-24 12:46:35 error: *** Spell Checker Report ***
 
 
+2021-05-24 09:10:46 info: ------------------------------------------
+2021-05-24 09:10:46 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-24 09:10:46 info: ------------------------------------------
+2021-05-24 09:10:52 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with zero living neighbors should die and have its life time reset to zero
+- Game Of Life: a living cell with one living neighbor should die and have its life time reset to zero
+- Game Of Life: a living cell with two living neighbors should survive and have its life time incremented by one
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+- Game Of Life: a living cell with four living neighbors should die and have its life time reset to zero
+- Game Of Life: a dead cell with three living neighbors should come alive and have its lifeTime reset to one
+
+2021-05-24 09:10:56 error: *** Spell Checker Report ***
+
+
+2021-05-24 09:16:56 info: ------------------------------------------
+2021-05-24 09:16:56 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-24 09:16:56 info: ------------------------------------------
+2021-05-24 09:17:01 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with zero living neighbors should die and have its life time reset to zero
+- Game Of Life: a living cell with one living neighbor should die and have its life time reset to zero
+- Game Of Life: a living cell with two living neighbors should survive and have its life time incremented by one
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+- Game Of Life: a living cell with four living neighbors should die and have its life time reset to zero
+- Game Of Life: a dead cell with three living neighbors should come alive and have its lifeTime reset to one
+
+2021-05-24 09:17:04 error: *** Spell Checker Report ***
+
+
+2021-05-24 09:33:44 info: ------------------------------------------
+2021-05-24 09:33:44 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-24 09:33:44 info: ------------------------------------------
+2021-05-24 09:33:49 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with zero living neighbors should die and have its life time reset to zero
+lifeTime is not defined
+- Game Of Life: a living cell with one living neighbor should die and have its life time reset to zero
+lifeTime is not defined
+- Game Of Life: a living cell with two living neighbors should survive and have its life time incremented by one
+lifeTime is not defined
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+lifeTime is not defined
+- Game Of Life: a living cell with four living neighbors should die and have its life time reset to zero
+lifeTime is not defined
+- Game Of Life: a dead cell with zero living neighbors should remain dead and have a life time of zero
+lifeTime is not defined
+- Game Of Life: a dead cell with one living neighbor should remain dead and have a life time of zero
+lifeTime is not defined
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+lifeTime is not defined
+- Game Of Life: a dead cell with three living neighbors should come alive and have its lifeTime reset to one
+lifeTime is not defined
+- Game Of Life: a dead cell with four living neighbors should remain dead and have a life time of zero
+lifeTime is not defined
+
+2021-05-24 09:33:53 error: *** Spell Checker Report ***
+
+
+2021-05-24 09:35:00 info: ------------------------------------------
+2021-05-24 09:35:00 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-24 09:35:00 info: ------------------------------------------
+2021-05-24 09:35:04 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with zero living neighbors should die and have its life time reset to zero
+- Game Of Life: a living cell with one living neighbor should die and have its life time reset to zero
+- Game Of Life: a living cell with two living neighbors should survive and have its life time incremented by one
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+- Game Of Life: a living cell with four living neighbors should die and have its life time reset to zero
+- Game Of Life: a dead cell with three living neighbors should come alive and have its lifeTime reset to one
+
+2021-05-24 09:35:07 error: *** Spell Checker Report ***
+
+
