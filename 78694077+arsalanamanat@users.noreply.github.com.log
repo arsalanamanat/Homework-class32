@@ -491,3 +491,112 @@ lifeTime is not defined
 2021-05-25 09:52:54 error: *** Spell Checker Report ***
 
 
+2021-05-25 09:54:13 info: ----------------------------------------
+2021-05-25 09:54:13 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-25 09:54:13 info: ----------------------------------------
+2021-05-25 09:54:19 error: *** Unit Test Error Report ***
+
+- Generated HTML HTML should be syntactically valid
+  inline
+    18:213  error  <img> is missing required "alt" attribute  wcag/h37
+    18:437  error  <img> is missing required "alt" attribute  wcag/h37
+    18:652  error  <img> is missing required "alt" attribute  wcag/h37
+  
+  ✖ 3 problems (3 errors, 0 warnings)
+  
+
+2021-05-25 09:54:22 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:54:46 info: ----------------------------------------
+2021-05-25 09:54:46 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-25 09:54:46 info: ----------------------------------------
+2021-05-25 09:54:53 error: *** Unit Test Error Report ***
+
+- Generated HTML HTML should be syntactically valid
+  inline
+    18:213  error  <img> is missing required "alt" attribute  wcag/h37
+    18:437  error  <img> is missing required "alt" attribute  wcag/h37
+    18:652  error  <img> is missing required "alt" attribute  wcag/h37
+  
+  ✖ 3 problems (3 errors, 0 warnings)
+  
+
+2021-05-25 09:54:55 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:55:44 info: ----------------------------------------
+2021-05-25 09:55:44 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-25 09:55:44 info: ----------------------------------------
+2021-05-25 09:55:50 error: *** Unit Test Error Report ***
+
+- Generated HTML HTML should be syntactically valid
+  inline
+    18:235  error  <img> is missing required "alt" attribute  wcag/h37
+    18:459  error  <img> is missing required "alt" attribute  wcag/h37
+    18:674  error  <img> is missing required "alt" attribute  wcag/h37
+  
+  ✖ 3 problems (3 errors, 0 warnings)
+  
+
+2021-05-25 09:55:53 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:59:16 info: ----------------------------------------
+2021-05-25 09:59:16 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-25 09:59:16 info: ----------------------------------------
+2021-05-25 09:59:22 error: *** Unit Test Error Report ***
+
+- Generated HTML HTML should be syntactically valid
+  inline
+    18:520  error  <img> is missing required "alt" attribute  wcag/h37
+    18:735  error  <img> is missing required "alt" attribute  wcag/h37
+  
+  ✖ 2 problems (2 errors, 0 warnings)
+  
+
+2021-05-25 09:59:25 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:59:53 info: ----------------------------------------
+2021-05-25 09:59:53 info: >>> Running Unit Test `ex1-bookList` <<<
+2021-05-25 09:59:53 info: ----------------------------------------
+2021-05-25 09:59:59 info: All unit tests passed.
+2021-05-25 10:00:02 error: *** Spell Checker Report ***
+
+
+2021-05-25 10:00:38 info: ---------------------------------------
+2021-05-25 10:00:38 info: >>> Running Unit Test `ex2-aboutMe` <<<
+2021-05-25 10:00:38 info: ---------------------------------------
+2021-05-25 10:00:45 info: All unit tests passed.
+2021-05-25 10:00:48 error: *** Spell Checker Report ***
+
+
+2021-05-25 10:00:58 info: ------------------------------------------
+2021-05-25 10:00:58 info: >>> Running Unit Test `ex3-hijackLogo` <<<
+2021-05-25 10:00:58 info: ------------------------------------------
+2021-05-25 10:01:01 info: All unit tests passed.
+2021-05-25 10:01:04 error: *** Spell Checker Report ***
+
+
+2021-05-25 10:01:16 info: --------------------------------------------
+2021-05-25 10:01:16 info: >>> Running Unit Test `ex4-whatsTheTime` <<<
+2021-05-25 10:01:16 info: --------------------------------------------
+2021-05-25 10:01:22 info: All unit tests passed.
+2021-05-25 10:01:25 error: *** Spell Checker Report ***
+
+
+2021-05-25 10:01:33 info: ---------------------------------------
+2021-05-25 10:01:33 info: >>> Running Unit Test `ex5-catWalk` <<<
+2021-05-25 10:01:33 info: ---------------------------------------
+2021-05-25 10:01:39 info: All unit tests passed.
+2021-05-25 10:01:42 error: *** Spell Checker Report ***
+
+
+2021-05-25 10:01:50 info: ------------------------------------------
+2021-05-25 10:01:50 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 10:01:50 info: ------------------------------------------
+2021-05-25 10:01:54 info: All unit tests passed.
+2021-05-25 10:01:57 error: *** Spell Checker Report ***
+
+

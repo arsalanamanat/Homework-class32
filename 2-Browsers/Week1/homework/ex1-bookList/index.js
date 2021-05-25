@@ -56,10 +56,13 @@ function createBookList(books) {
     // Using if Statement to show Book Cover with respect to th author od the book
     if (book.author === 'Don Norman') {
       images.src = './assets/the_design_of_everyday_things.jpg';
+      images.alt = `Name:${book.title} - Author:${book.author}`;
     } else if (book.author === 'Brian Christian') {
       images.src = './assets/the_most_human_human.jpg';
+      images.alt = `Name:${book.title} - Author:${book.author}`;
     } else {
       images.src = './assets/the_pragmatic_programmer.jpg';
+      images.alt = `Name:${book.title} - Author:${book.author}`;
     }
 
     // Using if statement to check if the book is already read or not
@@ -72,6 +75,7 @@ function createBookList(books) {
 
     newUl.style.listStyle = 'none';
     newUl.style.padding = '20px';
+    newUl.style.display = 'inline-flex';
     listItems.style.margin = '15px';
     listItems.style.minWidth = '350px';
     listItems.style.width = '25%';
