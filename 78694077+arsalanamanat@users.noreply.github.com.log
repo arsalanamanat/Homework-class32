@@ -314,3 +314,180 @@ lifeTime is not defined
 2021-05-24 09:35:07 error: *** Spell Checker Report ***
 
 
+2021-05-25 09:33:29 info: ------------------------------------------
+2021-05-25 09:33:29 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:33:29 info: ------------------------------------------
+2021-05-25 09:33:34 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+
+2021-05-25 09:33:36 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:34:22 info: ------------------------------------------
+2021-05-25 09:34:22 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:34:22 info: ------------------------------------------
+2021-05-25 09:34:26 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+
+2021-05-25 09:34:29 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:35:23 info: ------------------------------------------
+2021-05-25 09:35:23 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:35:23 info: ------------------------------------------
+2021-05-25 09:35:27 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+
+2021-05-25 09:35:30 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:35:52 info: ------------------------------------------
+2021-05-25 09:35:52 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:35:52 info: ------------------------------------------
+2021-05-25 09:35:56 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with one living neighbor should die and have its life time reset to zero
+lifeTime is not defined
+- Game Of Life: a living cell with two living neighbors should survive and have its life time incremented by one
+lifeTime is not defined
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+lifeTime is not defined
+- Game Of Life: a living cell with four living neighbors should die and have its life time reset to zero
+lifeTime is not defined
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+lifeTime is not defined
+- Game Of Life: a dead cell with three living neighbors should come alive and have its lifeTime reset to one
+lifeTime is not defined
+- Game Of Life: a dead cell with four living neighbors should remain dead and have a life time of zero
+lifeTime is not defined
+
+2021-05-25 09:35:59 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:36:09 info: ------------------------------------------
+2021-05-25 09:36:09 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:36:09 info: ------------------------------------------
+2021-05-25 09:36:13 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+
+2021-05-25 09:36:16 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:36:37 info: ------------------------------------------
+2021-05-25 09:36:37 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:36:37 info: ------------------------------------------
+2021-05-25 09:36:41 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with one living neighbor should die and have its life time reset to zero
+lifeTime is not defined
+- Game Of Life: a living cell with two living neighbors should survive and have its life time incremented by one
+lifeTime is not defined
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+lifeTime is not defined
+- Game Of Life: a living cell with four living neighbors should die and have its life time reset to zero
+lifeTime is not defined
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+lifeTime is not defined
+- Game Of Life: a dead cell with three living neighbors should come alive and have its lifeTime reset to one
+lifeTime is not defined
+- Game Of Life: a dead cell with four living neighbors should remain dead and have a life time of zero
+lifeTime is not defined
+
+2021-05-25 09:36:44 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:37:02 info: ------------------------------------------
+2021-05-25 09:37:02 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:37:02 info: ------------------------------------------
+2021-05-25 09:37:06 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with three living neighbors should survive and have its life time incremented by one
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+
+2021-05-25 09:37:09 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:37:38 info: ------------------------------------------
+2021-05-25 09:37:38 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:37:38 info: ------------------------------------------
+2021-05-25 09:37:42 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with two living neighbors should survive and have its life time incremented by one
+
+2021-05-25 09:37:45 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:38:13 info: ------------------------------------------
+2021-05-25 09:38:13 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:38:13 info: ------------------------------------------
+2021-05-25 09:38:17 error: *** Unit Test Error Report ***
+
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+
+2021-05-25 09:38:20 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:43:28 info: ------------------------------------------
+2021-05-25 09:43:28 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:43:28 info: ------------------------------------------
+2021-05-25 09:43:32 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with two living neighbors should survive and have its life time incremented by one
+
+2021-05-25 09:43:35 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:44:16 info: ------------------------------------------
+2021-05-25 09:44:16 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:44:16 info: ------------------------------------------
+2021-05-25 09:44:20 error: *** Unit Test Error Report ***
+
+- Game Of Life: a living cell with two living neighbors should survive and have its life time incremented by one
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+
+2021-05-25 09:44:23 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:45:23 info: ------------------------------------------
+2021-05-25 09:45:23 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:45:23 info: ------------------------------------------
+2021-05-25 09:45:27 error: *** Unit Test Error Report ***
+
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+
+2021-05-25 09:45:30 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:51:38 info: ------------------------------------------
+2021-05-25 09:51:38 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:51:38 info: ------------------------------------------
+2021-05-25 09:51:42 error: *** Unit Test Error Report ***
+
+- Game Of Life: a dead cell with two living neighbors should remain dead and have a life time of zero
+- Game Of Life: a dead cell with four living neighbors should remain dead and have a life time of zero
+
+2021-05-25 09:51:45 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:52:17 info: ------------------------------------------
+2021-05-25 09:52:17 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:52:17 info: ------------------------------------------
+2021-05-25 09:52:21 info: All unit tests passed.
+2021-05-25 09:52:24 error: *** Spell Checker Report ***
+
+
+2021-05-25 09:52:47 info: ------------------------------------------
+2021-05-25 09:52:47 info: >>> Running Unit Test `ex6-gameOfLife` <<<
+2021-05-25 09:52:47 info: ------------------------------------------
+2021-05-25 09:52:51 info: All unit tests passed.
+2021-05-25 09:52:54 error: *** Spell Checker Report ***
+
+
