@@ -37,7 +37,7 @@ const myBooks = [
 
 function createBookList(books) {
   // your code goes in here, return the ul element
-
+  // declaring the Variable to store the data in Order to use them for future reference
   const newUl = document.createElement('ul');
   let listItems;
   let images;
@@ -53,6 +53,7 @@ function createBookList(books) {
 
     listItems.appendChild((images = document.createElement('IMG')));
 
+    // Using if Statement to show Book Cover with respect to th author od the book
     if (book.author === 'Don Norman') {
       images.src = './assets/the_design_of_everyday_things.jpg';
     } else if (book.author === 'Brian Christian') {
@@ -60,6 +61,8 @@ function createBookList(books) {
     } else {
       images.src = './assets/the_pragmatic_programmer.jpg';
     }
+
+    // Using if statement to check if the book is already read or not
 
     if (book.alreadyRead === true) {
       listItems.style.backgroundColor = 'green';
