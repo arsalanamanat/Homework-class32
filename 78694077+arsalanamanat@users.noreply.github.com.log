@@ -832,3 +832,134 @@ Timeout - Async callback was not invoked within the 5000 ms timeout specified by
 2021-06-11 11:11:36 error: *** Spell Checker Report ***
 
 
+2021-06-11 11:31:47 info: ----------------------------------------
+2021-06-11 11:31:47 info: >>> Running Unit Test `ex3-rollDice` <<<
+2021-06-11 11:31:47 info: ----------------------------------------
+2021-06-11 11:32:03 error: *** Unit Test Error Report ***
+
+- rollDice should resolve when the dice settles successfully
+Timeout - Async callback was not invoked within the 5000 ms timeout specified by jest.setTimeout.,
+- rollDice should reject with an Error when the dice rolls off the table
+Timeout - Async callback was not invoked within the 5000 ms timeout specified by jest.setTimeout.,
+
+2021-06-11 11:32:05 error: *** Spell Checker Report ***
+
+
+2021-06-11 11:39:31 info: ----------------------------------------
+2021-06-11 11:39:31 info: >>> Running Unit Test `ex3-rollDice` <<<
+2021-06-11 11:39:31 info: ----------------------------------------
+2021-06-11 11:39:35 error: *** Unit Test Error Report ***
+
+- rollDice should call `new Promise()`
+- rollDice `resolve()` should be called with a one argument
+- rollDice `reject()` should be called with a one argument
+- rollDice should resolve when the dice settles successfully
+callback is not defined,
+- rollDice should reject with an Error when the dice rolls off the table
+
+2021-06-11 11:39:38 error: *** Spell Checker Report ***
+
+
+2021-06-11 11:40:14 info: ----------------------------------------
+2021-06-11 11:40:14 info: >>> Running Unit Test `ex3-rollDice` <<<
+2021-06-11 11:40:14 info: ----------------------------------------
+2021-06-11 11:40:18 error: *** Unit Test Error Report ***
+
+- rollDice should call `new Promise()`
+- rollDice `resolve()` should be called with a one argument
+- rollDice `reject()` should be called with a one argument
+- rollDice should resolve when the dice settles successfully
+callback is not a function,
+- rollDice should reject with an Error when the dice rolls off the table
+
+2021-06-11 11:40:20 error: *** Spell Checker Report ***
+
+
+2021-06-11 11:44:06 info: ----------------------------------------
+2021-06-11 11:44:06 info: >>> Running Unit Test `ex3-rollDice` <<<
+2021-06-11 11:44:06 info: ----------------------------------------
+2021-06-11 11:44:10 info: All unit tests passed.
+2021-06-11 11:44:12 error: *** Spell Checker Report ***
+
+
+2021-06-11 11:48:03 info: ----------------------------------------
+2021-06-11 11:48:03 info: >>> Running Unit Test `ex3-rollDice` <<<
+2021-06-11 11:48:03 info: ----------------------------------------
+2021-06-11 11:48:07 info: All unit tests passed.
+2021-06-11 11:48:10 error: *** Spell Checker Report ***
+
+
+2021-06-11 11:49:13 info: ----------------------------------------
+2021-06-11 11:49:13 info: >>> Running Unit Test `ex3-rollDice` <<<
+2021-06-11 11:49:13 info: ----------------------------------------
+2021-06-11 11:49:17 error: *** Unit Test Error Report ***
+
+- rollDice should call `new Promise()`
+- rollDice `resolve()` should be called with a one argument
+- rollDice `reject()` should be called with a one argument
+
+2021-06-11 11:49:20 error: *** Spell Checker Report ***
+
+
+2021-06-11 11:49:43 info: ----------------------------------------
+2021-06-11 11:49:43 info: >>> Running Unit Test `ex3-rollDice` <<<
+2021-06-11 11:49:43 info: ----------------------------------------
+2021-06-11 11:49:48 info: All unit tests passed.
+2021-06-11 11:49:51 error: *** Spell Checker Report ***
+
+
+2021-06-12 12:08:30 info: ----------------------------------------
+2021-06-12 12:08:30 info: >>> Running Unit Test `ex3-rollDice` <<<
+2021-06-12 12:08:30 info: ----------------------------------------
+2021-06-12 12:08:34 info: All unit tests passed.
+2021-06-12 12:08:37 error: *** Spell Checker Report ***
+
+
+2021-06-12 12:08:49 info: --------------------------------------------
+2021-06-12 12:08:49 info: >>> Running Unit Test `ex4-pokerDiceAll` <<<
+2021-06-12 12:08:49 info: --------------------------------------------
+2021-06-12 12:08:53 info: All unit tests passed.
+2021-06-12 12:08:55 error: *** Spell Checker Report ***
+
+
+2021-06-12 12:17:51 info: --------------------------------------------
+2021-06-12 12:17:51 info: >>> Running Unit Test `ex4-pokerDiceAll` <<<
+2021-06-12 12:17:51 info: --------------------------------------------
+2021-06-12 12:17:56 error: *** Unit Test Error Report ***
+
+- ex4-pokerDiceAll should reject with an Error when a dice rolls off the table
+
+2021-06-12 12:17:59 error: *** Spell Checker Report ***
+
+
+2021-06-12 12:18:33 info: --------------------------------------------
+2021-06-12 12:18:33 info: >>> Running Unit Test `ex4-pokerDiceAll` <<<
+2021-06-12 12:18:33 info: --------------------------------------------
+2021-06-12 12:18:37 info: All unit tests passed.
+2021-06-12 12:18:40 error: *** Spell Checker Report ***
+
+
+2021-06-12 12:20:40 info: --------------------------------------------
+2021-06-12 12:20:40 info: >>> Running Unit Test `ex4-pokerDiceAll` <<<
+2021-06-12 12:20:40 info: --------------------------------------------
+2021-06-12 12:20:44 error: *** Unit Test Error Report ***
+
+- ex4-pokerDiceAll should exist and be executable
+
+2021-06-12 12:20:47 error: *** Spell Checker Report ***
+
+
+2021-06-12 12:22:33 info: --------------------------------------------
+2021-06-12 12:22:33 info: >>> Running Unit Test `ex4-pokerDiceAll` <<<
+2021-06-12 12:22:33 info: --------------------------------------------
+2021-06-12 12:22:37 info: All unit tests passed.
+2021-06-12 12:22:40 error: *** Spell Checker Report ***
+
+
+2021-06-12 12:55:33 info: --------------------------------------------
+2021-06-12 12:55:33 info: >>> Running Unit Test `ex4-pokerDiceAll` <<<
+2021-06-12 12:55:33 info: --------------------------------------------
+2021-06-12 12:55:37 info: All unit tests passed.
+2021-06-12 12:55:40 error: *** Spell Checker Report ***
+
+
