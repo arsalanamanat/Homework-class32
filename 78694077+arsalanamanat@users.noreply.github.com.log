@@ -818,3 +818,17 @@ Timeout - Async callback was not invoked within the 5000 ms timeout specified by
 2021-06-11 07:44:53 error: *** Spell Checker Report ***
 
 
+2021-06-11 11:10:37 info: ---------------------------------------
+2021-06-11 11:10:37 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 11:10:37 info: ---------------------------------------
+2021-06-11 11:10:43 info: All unit tests passed.
+2021-06-11 11:10:47 error: *** Spell Checker Report ***
+
+
+2021-06-11 11:11:29 info: -------------------------------------------------
+2021-06-11 11:11:29 info: >>> Running Unit Test `ex2-checkDoubleDigits` <<<
+2021-06-11 11:11:29 info: -------------------------------------------------
+2021-06-11 11:11:33 info: All unit tests passed.
+2021-06-11 11:11:36 error: *** Spell Checker Report ***
+
+
