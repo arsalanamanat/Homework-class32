@@ -1,0 +1,820 @@
+2021-06-11 04:53:54 info: ---------------------------------------
+2021-06-11 04:53:54 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 04:53:54 info: ---------------------------------------
+2021-06-11 04:54:46 error: *** Unit Test Error Report ***
+
+- getAnonName should take a single argument
+- getAnonName should resolve when called with a string argument
+getAnonName is not a function,
+- getAnonName should reject with an Error object when called without an argument
+getAnonName is not a function,
+
+2021-06-11 04:54:57 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:00:09 info: ---------------------------------------
+2021-06-11 05:00:09 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:00:09 info: ---------------------------------------
+2021-06-11 05:00:15 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 05:00:18 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:00:48 info: ---------------------------------------
+2021-06-11 05:00:48 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:00:48 info: ---------------------------------------
+2021-06-11 05:00:55 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 05:00:57 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:02:01 info: ---------------------------------------
+2021-06-11 05:02:01 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:02:01 info: ---------------------------------------
+2021-06-11 05:02:07 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 05:02:10 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:03:20 info: ---------------------------------------
+2021-06-11 05:03:20 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:03:20 info: ---------------------------------------
+2021-06-11 05:03:26 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 05:03:29 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:07:11 info: ---------------------------------------
+2021-06-11 05:07:11 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:07:11 info: ---------------------------------------
+2021-06-11 05:07:17 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:07:20 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:09:33 info: ---------------------------------------
+2021-06-11 05:09:33 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:09:33 info: ---------------------------------------
+2021-06-11 05:09:39 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:09:42 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:10:14 info: ---------------------------------------
+2021-06-11 05:10:14 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:10:14 info: ---------------------------------------
+2021-06-11 05:10:20 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:10:23 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:11:56 info: ---------------------------------------
+2021-06-11 05:11:56 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:11:56 info: ---------------------------------------
+2021-06-11 05:12:02 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:12:05 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:12:55 info: ---------------------------------------
+2021-06-11 05:12:55 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:12:55 info: ---------------------------------------
+2021-06-11 05:13:02 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:13:05 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:19:57 info: ---------------------------------------
+2021-06-11 05:19:57 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:19:57 info: ---------------------------------------
+2021-06-11 05:20:03 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+error is not defined,
+
+2021-06-11 05:20:06 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:20:23 info: ---------------------------------------
+2021-06-11 05:20:23 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:20:23 info: ---------------------------------------
+2021-06-11 05:20:29 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+error is not defined,
+
+2021-06-11 05:20:32 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:23:21 info: ---------------------------------------
+2021-06-11 05:23:21 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:23:21 info: ---------------------------------------
+2021-06-11 05:23:25 error: *** Unit Test Error Report ***
+
+- getAnonName should call `new Promise()`
+- getAnonName should take a single argument
+- getAnonName : `resolve()` should be called with a one argument
+- getAnonName : `reject()` should be called with a one argument
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 05:23:28 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:29:25 info: ---------------------------------------
+2021-06-11 05:29:25 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:29:25 info: ---------------------------------------
+2021-06-11 05:29:29 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 05:29:32 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:30:05 info: ---------------------------------------
+2021-06-11 05:30:05 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:30:05 info: ---------------------------------------
+2021-06-11 05:30:09 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 05:30:11 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:31:27 info: ---------------------------------------
+2021-06-11 05:31:27 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:31:27 info: ---------------------------------------
+2021-06-11 05:31:31 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 05:31:33 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:31:56 info: ---------------------------------------
+2021-06-11 05:31:56 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:31:56 info: ---------------------------------------
+2021-06-11 05:32:00 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 05:32:03 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:32:36 info: ---------------------------------------
+2021-06-11 05:32:36 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:32:36 info: ---------------------------------------
+2021-06-11 05:32:40 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+expect(received).resolves.toEqual()
+
+Received promise rejected instead of resolved
+Rejected to value: "You did not pass in a first name!",
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 05:32:43 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:34:14 info: ---------------------------------------
+2021-06-11 05:34:14 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:34:14 info: ---------------------------------------
+2021-06-11 05:34:18 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:34:20 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:35:53 info: ---------------------------------------
+2021-06-11 05:35:53 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:35:53 info: ---------------------------------------
+2021-06-11 05:35:57 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:36:00 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:36:25 info: ---------------------------------------
+2021-06-11 05:36:25 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:36:25 info: ---------------------------------------
+2021-06-11 05:36:29 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:36:32 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:41:08 info: ---------------------------------------
+2021-06-11 05:41:08 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:41:08 info: ---------------------------------------
+2021-06-11 05:41:12 error: *** Unit Test Error Report ***
+
+- getAnonName should call `new Promise()`
+- getAnonName should take a single argument
+- getAnonName : `resolve()` should be called with a one argument
+- getAnonName : `reject()` should be called with a one argument
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 05:41:15 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:53:57 info: ---------------------------------------
+2021-06-11 05:53:57 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:53:57 info: ---------------------------------------
+2021-06-11 05:54:04 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:54:08 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:54:32 info: ---------------------------------------
+2021-06-11 05:54:32 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:54:32 info: ---------------------------------------
+2021-06-11 05:54:39 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:54:43 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:55:10 info: ---------------------------------------
+2021-06-11 05:55:10 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:55:10 info: ---------------------------------------
+2021-06-11 05:55:14 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 05:55:19 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:55:50 info: ---------------------------------------
+2021-06-11 05:55:50 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:55:50 info: ---------------------------------------
+2021-06-11 05:55:55 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 05:56:02 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:56:22 info: ---------------------------------------
+2021-06-11 05:56:22 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:56:22 info: ---------------------------------------
+2021-06-11 05:56:29 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+  Expected: John Doe
+  Received: undefined
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: undefined,
+
+2021-06-11 05:56:31 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:58:41 info: ---------------------------------------
+2021-06-11 05:58:41 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:58:41 info: ---------------------------------------
+2021-06-11 05:58:46 error: *** Unit Test Error Report ***
+
+- getAnonName should exist and be executable
+
+2021-06-11 05:58:49 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:59:12 info: ---------------------------------------
+2021-06-11 05:59:12 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:59:12 info: ---------------------------------------
+2021-06-11 05:59:16 error: *** Unit Test Error Report ***
+
+- getAnonName should exist and be executable
+
+2021-06-11 05:59:19 error: *** Spell Checker Report ***
+
+
+2021-06-11 05:59:46 info: ---------------------------------------
+2021-06-11 05:59:46 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 05:59:46 info: ---------------------------------------
+2021-06-11 05:59:51 error: *** Unit Test Error Report ***
+
+- getAnonName should call `new Promise()`
+- getAnonName : `resolve()` should be called with a one argument
+- getAnonName : `reject()` should be called with a one argument
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 05:59:53 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:01:00 info: ---------------------------------------
+2021-06-11 06:01:00 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:01:00 info: ---------------------------------------
+2021-06-11 06:01:04 error: *** Unit Test Error Report ***
+
+- getAnonName : `resolve()` should be called with a one argument
+- getAnonName : `reject()` should be called with a one argument
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 06:01:07 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:02:19 info: ---------------------------------------
+2021-06-11 06:02:19 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:02:19 info: ---------------------------------------
+2021-06-11 06:02:23 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 06:02:26 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:03:01 info: ---------------------------------------
+2021-06-11 06:03:01 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:03:01 info: ---------------------------------------
+2021-06-11 06:03:05 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 06:03:08 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:03:33 info: ---------------------------------------
+2021-06-11 06:03:33 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:03:33 info: ---------------------------------------
+2021-06-11 06:03:37 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 06:03:40 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:04:12 info: ---------------------------------------
+2021-06-11 06:04:12 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:04:12 info: ---------------------------------------
+2021-06-11 06:04:16 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 06:04:19 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:04:47 info: ---------------------------------------
+2021-06-11 06:04:47 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:04:47 info: ---------------------------------------
+2021-06-11 06:04:51 error: *** Unit Test Error Report ***
+
+- getAnonName should exist and be executable
+
+2021-06-11 06:04:54 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:05:11 info: ---------------------------------------
+2021-06-11 06:05:11 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:05:11 info: ---------------------------------------
+2021-06-11 06:05:15 error: *** Unit Test Error Report ***
+
+- getAnonName should exist and be executable
+
+2021-06-11 06:05:18 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:05:28 info: ---------------------------------------
+2021-06-11 06:05:28 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:05:28 info: ---------------------------------------
+2021-06-11 06:05:32 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 06:05:35 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:06:23 info: ---------------------------------------
+2021-06-11 06:06:23 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:06:23 info: ---------------------------------------
+2021-06-11 06:06:27 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 06:06:30 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:07:06 info: ---------------------------------------
+2021-06-11 06:07:06 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:07:06 info: ---------------------------------------
+2021-06-11 06:07:10 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 06:07:13 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:07:29 info: ---------------------------------------
+2021-06-11 06:07:29 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:07:29 info: ---------------------------------------
+2021-06-11 06:07:33 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 06:07:36 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:09:14 info: ---------------------------------------
+2021-06-11 06:09:14 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:09:14 info: ---------------------------------------
+2021-06-11 06:09:18 error: *** Unit Test Error Report ***
+
+- getAnonName : `reject()` should be called with a one argument
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 06:09:21 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:10:04 info: ---------------------------------------
+2021-06-11 06:10:04 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:10:04 info: ---------------------------------------
+2021-06-11 06:10:08 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 06:10:11 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:12:38 info: ---------------------------------------
+2021-06-11 06:12:38 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:12:38 info: ---------------------------------------
+2021-06-11 06:12:42 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 06:12:45 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:13:18 info: ---------------------------------------
+2021-06-11 06:13:18 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:13:18 info: ---------------------------------------
+2021-06-11 06:13:23 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 06:13:27 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:14:07 info: ---------------------------------------
+2021-06-11 06:14:07 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:14:07 info: ---------------------------------------
+2021-06-11 06:14:11 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 06:14:13 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:14:46 info: ---------------------------------------
+2021-06-11 06:14:46 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:14:46 info: ---------------------------------------
+2021-06-11 06:14:50 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 06:14:53 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:15:01 info: ---------------------------------------
+2021-06-11 06:15:01 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:15:01 info: ---------------------------------------
+2021-06-11 06:15:06 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 06:15:09 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:16:09 info: ---------------------------------------
+2021-06-11 06:16:09 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:16:09 info: ---------------------------------------
+2021-06-11 06:16:13 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument,
+- getAnonName should reject with an Error object when called without an argument,
+
+2021-06-11 06:16:16 error: *** Spell Checker Report ***
+
+
+2021-06-11 06:21:05 info: ---------------------------------------
+2021-06-11 06:21:05 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 06:21:05 info: ---------------------------------------
+2021-06-11 06:21:09 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 06:21:12 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:16:25 info: ---------------------------------------
+2021-06-11 07:16:25 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:16:25 info: ---------------------------------------
+2021-06-11 07:16:34 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:16:39 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:17:42 info: ---------------------------------------
+2021-06-11 07:17:42 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:17:42 info: ---------------------------------------
+2021-06-11 07:17:48 error: *** Unit Test Error Report ***
+
+- getAnonName should resolve when called with a string argument
+expect(received).resolves.toEqual()
+
+Received promise rejected instead of resolved
+Rejected to value: "You didn't pass in a first name!",
+- getAnonName should reject with an Error object when called without an argument
+expect(received).rejects.toBeInstanceOf()
+
+Received promise resolved instead of rejected
+Resolved to value: "undefined Doe",
+
+2021-06-11 07:17:51 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:18:23 info: ---------------------------------------
+2021-06-11 07:18:23 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:18:23 info: ---------------------------------------
+2021-06-11 07:18:29 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:18:32 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:19:37 info: ---------------------------------------
+2021-06-11 07:19:37 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:19:37 info: ---------------------------------------
+2021-06-11 07:19:43 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:19:45 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:20:19 info: ---------------------------------------
+2021-06-11 07:20:19 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:20:19 info: ---------------------------------------
+2021-06-11 07:20:26 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:20:28 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:22:36 info: ---------------------------------------
+2021-06-11 07:22:36 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:22:36 info: ---------------------------------------
+2021-06-11 07:22:43 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:22:46 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:23:45 info: ---------------------------------------
+2021-06-11 07:23:45 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:23:45 info: ---------------------------------------
+2021-06-11 07:23:51 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:23:54 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:25:10 info: ---------------------------------------
+2021-06-11 07:25:10 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:25:10 info: ---------------------------------------
+2021-06-11 07:25:16 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:25:19 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:26:29 info: ---------------------------------------
+2021-06-11 07:26:29 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:26:29 info: ---------------------------------------
+2021-06-11 07:26:39 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+Timeout - Async callback was not invoked within the 5000 ms timeout specified by jest.setTimeout.,
+
+2021-06-11 07:26:43 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:32:21 info: ---------------------------------------
+2021-06-11 07:32:21 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:32:21 info: ---------------------------------------
+2021-06-11 07:32:27 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:32:30 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:36:52 info: ---------------------------------------
+2021-06-11 07:36:52 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:36:52 info: ---------------------------------------
+2021-06-11 07:36:58 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:37:01 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:40:02 info: ---------------------------------------
+2021-06-11 07:40:02 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:40:02 info: ---------------------------------------
+2021-06-11 07:40:08 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:40:11 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:42:27 info: ---------------------------------------
+2021-06-11 07:42:27 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:42:27 info: ---------------------------------------
+2021-06-11 07:42:33 error: *** Unit Test Error Report ***
+
+- getAnonName should reject with an Error object when called without an argument
+
+2021-06-11 07:42:36 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:43:30 info: ---------------------------------------
+2021-06-11 07:43:30 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:43:30 info: ---------------------------------------
+2021-06-11 07:43:36 info: All unit tests passed.
+2021-06-11 07:43:39 error: *** Spell Checker Report ***
+
+
+2021-06-11 07:44:44 info: ---------------------------------------
+2021-06-11 07:44:44 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-11 07:44:44 info: ---------------------------------------
+2021-06-11 07:44:51 info: All unit tests passed.
+2021-06-11 07:44:53 error: *** Spell Checker Report ***
+
+
