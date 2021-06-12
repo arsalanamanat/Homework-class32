@@ -963,3 +963,10 @@ callback is not a function,
 2021-06-12 12:55:40 error: *** Spell Checker Report ***
 
 
+2021-06-12 11:08:51 info: ----------------------------------------------
+2021-06-12 11:08:51 info: >>> Running Unit Test `ex5-pokerDiceChain` <<<
+2021-06-12 11:08:51 info: ----------------------------------------------
+2021-06-12 11:08:55 info: All unit tests passed.
+2021-06-12 11:08:58 error: *** Spell Checker Report ***
+
+
