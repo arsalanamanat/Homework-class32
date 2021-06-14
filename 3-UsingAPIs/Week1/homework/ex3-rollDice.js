@@ -58,15 +58,7 @@ rollDice()
   });
 
 // ! Do not change or remove the code below
-// function wasteTime() {
-//   let count = 0;
-//   const timer = setInterval(() => {
-//     count += 1;
-//     console.log('count =', count);
-//     if (count > 100) {
-//       clearInterval(timer);
-//     }
-//   }, 0);
-// }
-// wasteTime();
 module.exports = rollDice;
+
+//Answer: Because in Promise when we come to a state after pending it will stay in that state and does not change
+//        where as in callbacks it keeps looping even after throwing an error.
