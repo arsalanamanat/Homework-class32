@@ -970,3 +970,45 @@ callback is not a function,
 2021-06-12 11:08:58 error: *** Spell Checker Report ***
 
 
+2021-06-14 10:45:26 info: ---------------------------------------
+2021-06-14 10:45:26 info: >>> Running Unit Test `ex1-johnWho` <<<
+2021-06-14 10:45:26 info: ---------------------------------------
+2021-06-14 10:45:37 info: All unit tests passed.
+2021-06-14 10:45:41 error: *** Spell Checker Report ***
+
+
+2021-06-14 10:45:51 info: -------------------------------------------------
+2021-06-14 10:45:51 info: >>> Running Unit Test `ex2-checkDoubleDigits` <<<
+2021-06-14 10:45:51 info: -------------------------------------------------
+2021-06-14 10:45:57 info: All unit tests passed.
+2021-06-14 10:46:03 error: *** Spell Checker Report ***
+
+
+2021-06-14 10:46:12 info: ----------------------------------------
+2021-06-14 10:46:12 info: >>> Running Unit Test `ex3-rollDice` <<<
+2021-06-14 10:46:12 info: ----------------------------------------
+2021-06-14 10:46:17 info: All unit tests passed.
+2021-06-14 10:46:22 error: *** Spell Checker Report ***
+
+
+2021-06-14 10:46:33 info: --------------------------------------------
+2021-06-14 10:46:33 info: >>> Running Unit Test `ex4-pokerDiceAll` <<<
+2021-06-14 10:46:33 info: --------------------------------------------
+2021-06-14 10:46:39 info: All unit tests passed.
+2021-06-14 10:46:45 error: *** Spell Checker Report ***
+
+
+2021-06-14 10:47:03 info: --------------------------------------------
+2021-06-14 10:47:03 info: >>> Running Unit Test `ex4-pokerDiceAll` <<<
+2021-06-14 10:47:03 info: --------------------------------------------
+2021-06-14 10:47:09 info: All unit tests passed.
+2021-06-14 10:47:14 error: *** Spell Checker Report ***
+
+
+2021-06-14 10:47:28 info: ----------------------------------------------
+2021-06-14 10:47:28 info: >>> Running Unit Test `ex5-pokerDiceChain` <<<
+2021-06-14 10:47:28 info: ----------------------------------------------
+2021-06-14 10:47:33 info: All unit tests passed.
+2021-06-14 10:47:36 error: *** Spell Checker Report ***
+
+

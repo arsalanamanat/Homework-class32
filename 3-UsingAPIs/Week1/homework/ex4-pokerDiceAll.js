@@ -42,3 +42,6 @@ rollTheDices()
 
 // ! Do not change or remove the code below
 module.exports = rollTheDices;
+
+// Answer: The dice will continue to roll to complete its schedule task . and we are not stopping the dice onces
+//         it falls from the table in our reject method
