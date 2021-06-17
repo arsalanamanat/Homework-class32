@@ -79,3 +79,17 @@
 2021-06-17 06:10:23 error: *** Spell Checker Report ***
 
 
+2021-06-17 09:52:36 info: ----------------------------------------
+2021-06-17 09:52:36 info: >>> Running Unit Test `ex5-vscDebug` <<<
+2021-06-17 09:52:36 info: ----------------------------------------
+2021-06-17 09:52:36 warn: A unit test file was not provided.
+2021-06-17 09:52:43 error: *** Spell Checker Report ***
+
+
+2021-06-17 09:52:57 info: ----------------------------------------
+2021-06-17 09:52:57 info: >>> Running Unit Test `ex5-vscDebug` <<<
+2021-06-17 09:52:57 info: ----------------------------------------
+2021-06-17 09:52:57 warn: A unit test file was not provided.
+2021-06-17 09:53:00 error: *** Spell Checker Report ***
+
+
