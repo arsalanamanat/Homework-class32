@@ -26,3 +26,56 @@
 2021-06-17 01:58:04 error: *** Spell Checker Report ***
 
 
+2021-06-17 01:59:52 info: ---------------------------------------------
+2021-06-17 01:59:52 info: >>> Running Unit Test `ex1-programmerFun` <<<
+2021-06-17 01:59:52 info: ---------------------------------------------
+2021-06-17 01:59:58 info: All unit tests passed.
+2021-06-17 02:00:01 error: *** Spell Checker Report ***
+
+
+2021-06-17 02:16:22 info: ----------------------------------------
+2021-06-17 02:16:22 info: >>> Running Unit Test `ex4-diceRace` <<<
+2021-06-17 02:16:22 info: ----------------------------------------
+2021-06-17 02:16:27 error: *** Unit Test Error Report ***
+
+- ex4-diceRace should resolve as soon as a dice settles successfully
+
+2021-06-17 02:16:30 error: *** Spell Checker Report ***
+
+
+2021-06-17 02:17:47 info: ----------------------------------------
+2021-06-17 02:17:47 info: >>> Running Unit Test `ex4-diceRace` <<<
+2021-06-17 02:17:47 info: ----------------------------------------
+2021-06-17 02:17:51 error: *** Unit Test Error Report ***
+
+- ex4-diceRace should resolve as soon as a dice settles successfully
+- ex4-diceRace should reject with an Error as soon as a dice rolls off the table
+
+2021-06-17 02:17:54 error: *** Spell Checker Report ***
+
+
+2021-06-17 02:18:20 info: ----------------------------------------
+2021-06-17 02:18:20 info: >>> Running Unit Test `ex4-diceRace` <<<
+2021-06-17 02:18:20 info: ----------------------------------------
+2021-06-17 02:18:25 error: *** Unit Test Error Report ***
+
+- ex4-diceRace should resolve as soon as a dice settles successfully
+- ex4-diceRace should reject with an Error as soon as a dice rolls off the table
+
+2021-06-17 02:18:28 error: *** Spell Checker Report ***
+
+
+2021-06-17 06:09:24 info: ----------------------------------------
+2021-06-17 06:09:24 info: >>> Running Unit Test `ex4-diceRace` <<<
+2021-06-17 06:09:24 info: ----------------------------------------
+2021-06-17 06:09:30 info: All unit tests passed.
+2021-06-17 06:09:33 error: *** Spell Checker Report ***
+
+
+2021-06-17 06:10:12 info: ----------------------------------------
+2021-06-17 06:10:12 info: >>> Running Unit Test `ex4-diceRace` <<<
+2021-06-17 06:10:12 info: ----------------------------------------
+2021-06-17 06:10:19 info: All unit tests passed.
+2021-06-17 06:10:23 error: *** Spell Checker Report ***
+
+
