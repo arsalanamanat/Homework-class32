@@ -30,7 +30,6 @@ async function fetchAndPopulatePokemons(data) {
   // TODO complete this function
   const jsonData = await data.json();
   const { results } = jsonData;
-  console.log(results);
 
   const submitBtn = document.createElement('button');
   submitBtn.innerText = `Get Pokemon`;
@@ -43,13 +42,15 @@ async function fetchAndPopulatePokemons(data) {
   selectList.style.display = 'block';
   selectList.style.marginTop = '20px';
   document.body.appendChild(selectList);
+
+  const imageElement = document.createElement('img');
+  document.body.appendChild(imageElement);
+
   selectList.addEventListener('change', (e) => {
-    fetchImage(e.target.value);
-    document.body.lastElementChild.src = '';
+    fetchImage(e.target.value, imageElement);
   });
 
   submitBtn.addEventListener('click', getPokemonName);
-
   let id = 0;
 
   function getPokemonName() {
@@ -63,17 +64,15 @@ async function fetchAndPopulatePokemons(data) {
   }
 }
 
-async function fetchImage(id) {
+async function fetchImage(id, imageElement) {
   // TODO complete this function
   const imageDataApi = await fetchData(
     `https://pokeapi.co/api/v2/pokemon/${id}/`
   );
   const imageJsonData = await imageDataApi.json();
   const { sprites } = imageJsonData;
-
-  const imageElement = document.createElement('img');
+  imageElement.src = ' ';
   imageElement.src = sprites.front_default;
-  document.body.appendChild(imageElement);
 }
 
 async function main() {
