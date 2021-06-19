@@ -30,3 +30,6 @@ main();
 
 // ! Do not change or remove the code below
 module.exports = rollTheDices;
+
+// Answer : Because all the dices are thrown at Once thats why they will complete their rolling but will not get settled because in Promise.race()
+//          after the fastest promises get resolved the other gets neglected.
