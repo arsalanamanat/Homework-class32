@@ -51,7 +51,6 @@ function rollDice() {
 rollDice()
   .then((message) => {
     console.log(message);
-    return rollDice();
   })
   .catch((error) => {
     console.log(error);
