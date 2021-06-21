@@ -12,7 +12,7 @@ function addCurrentTime() {
     const getDate = new Date();
     const getCurrentTime = `${getDate.getHours()}: ${getDate.getMinutes()}: ${getDate.getSeconds()}`;
     document.body.textContent = getCurrentTime;
-  }, 3000);
+  }, 1000);
 }
 
 // TODO execute `addCurrentTime` when the browser has completed loading the page
