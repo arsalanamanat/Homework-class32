@@ -21,7 +21,7 @@ Use async/await and try/catch to handle promises.
 Try and avoid using global variables. As much as possible, try and use function 
 parameters and return values to pass data back and forth.
 ------------------------------------------------------------------------------*/
-async function fetchData(url) {
+function fetchData(url) {
   // TODO complete this function
   return fetch(url);
 }
@@ -51,9 +51,9 @@ async function fetchAndPopulatePokemons(data) {
   });
 
   submitBtn.addEventListener('click', getPokemonName);
-  let id = 0;
 
   function getPokemonName() {
+    let id = 0;
     results.forEach((pokemon) => {
       const options = document.createElement('option');
       id++;
@@ -79,7 +79,7 @@ async function main() {
   // TODO complete this function
   try {
     const responseData = await fetchData(
-      `https://pokeapi.co/api/v2/pokemon?limit=150&offset=0`
+      `https://pokeapi.co/api/v2/pokemon?limit=200&offset=0`
     );
     fetchAndPopulatePokemons(responseData);
   } catch (error) {
